@@ -1,0 +1,626 @@
+{
+    "gems": [
+        {
+            "id": 0,
+            "name": "Pedra de Zod",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta a duração das suas habilidades supremas em 16.00%."
+        },
+        {
+            "id": 1,
+            "name": "Vigor de Ca'arsen",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta em 5.50% a velocidade do ataque primário."
+        },
+        {
+            "id": 2,
+            "name": "Alma Desafiante",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Cadas vez que você bloqueia um ataque, causa 64% do dano básico + 777 a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 3,
+            "name": "Pedra do Amparo",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Você recebe 0.55% de dano reduzido a cada 10% que sua vida estiver abaixo do máximo, até uma redução máxima de 5.5%."
+        },
+        {
+            "id": 4,
+            "name": "Mágoa da Submissão",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Você causa 5.50% de dano aumentado a inimigos sob efeito de perda de controle."
+        },
+        {
+            "id": 5,
+            "name": "Ardil Impossível",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Suas habilidades de canalização consomem energia 8.00% mais devagar.",
+            "gemRess": ["Liberdade e Devoção", "Coroa do Pesadelo"]
+        },
+        {
+            "id": 6,
+            "name": "Olho do Berseker",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta todo o dano causado em 5.50%, mas também aumenta todo o dano recebido em 5%."
+        },
+        {
+            "id": 7,
+            "name": "Fraqueza de Seled",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "O dano causado é aumentado em 6.00% por 60 segundos depois de matar um monstro de elite ou chefe."
+        },
+        {
+            "id": 8,
+            "name": "Riso Perverso",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Seu ataque primário provoca monstros que não são chefes, forçando-os a atacarem você por 2.00 segundos. Cada alvo só pode ser afetado uma vez a cada 20 segundos."
+        },
+        {
+            "id": 9,
+            "name": "Suplício Eterno",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Seus acertos críticos aplicam agonia, causando 10% do dano básico + 122 a cada segundo por 6 segundos. Cada inimigo só pode ser afetado uma vez a cada 20 segundos.",
+            "gemRess": ["Ardil Impossível", "Mágoa da Submissão"]
+        },
+        {
+            "id": 10,
+            "name": "Morte Atada",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta o dano dos seus ataques em 1.50% por alvo atingido, até o máximo de 4.5% com 3 alvos."
+        },
+        {
+            "id": 11,
+            "name": "Coroa do Pesadelo",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Ao derrotar um inimigo, você tem 10% de chance de fazer outros inimigos próximos fugirem amedrontados por 0.80 segundos. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 12,
+            "name": "Rosa Negra",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Cada vez que você recebe um ataque, tem 10% de chance de evocar vinhas que imobilizam o agressor por 1.10 segundos. Cada inimigo só pode ser afetado uma vez a cada 20 segundos."
+        },
+        {
+            "id": 13,
+            "name": "Liberdade e Devoção",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta a duração das suas evocações em 8.00%."
+        },
+        {
+            "id": 14,
+            "name": "Olhar Focado de Lo",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta em 8.00% o dano causado por suas habilidades de carga."
+        },
+        {
+            "id": 15,
+            "name": "Seixo Abençoado",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta a duração de efeitos benéficos em você em 4.00%.",
+            "gemRess": ["Pedra de Zod", "Pedra do Amparo"]
+        },
+        {
+            "id": 16,
+            "name": "Pedra-Coração",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Aumenta a duração dos escudos de absorção em 16.00%."
+        },
+        {
+            "id": 17,
+            "name": "Presa Ardente",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Cada vez que você causa dano a um inimigo, o inimigo agora recebe 0.80% de dano aumentado dos ataques, até um aumento máximo de 8% com 10 aplicações."
+        },
+        {
+            "id": 18,
+            "name": "Poder e Comando",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Poder e Comando troca de estado a cada 9 segundos. Poder aumenta em 8% o dano do ataque primário. Comando aumenta em 8% o dano de todas as habilidades.",
+            "gemRess": ["Olho do Berseker", "Avidez", "Alcance Fatal"]
+        },
+        {
+            "id": 19,
+            "name": "Fardo do Seguidor",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Aumenta todo o dano causado em 1.00% para cada evocação que você controla, até um aumento máximo de 6%."
+        },
+        {
+            "id": 20,
+            "name": "Avidez",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Cura instantaneamente 40% do seu dano básico + 567 da vida total quando você derrota um inimigo. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 21,
+            "name": "Alcance Fatal",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Aumenta todo o dano causado por você em 2.00% a cada 2 metros entre você e o inimigo atingido, até o máximo de 8% a 8 metros.",
+            "gemRess": ["Poder e Comando", "Núcleo de Raios", "Suplício Eterno"]
+        },
+        {
+            "id": 22,
+            "name": "Guarda de Batalha",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Reduz em 8.00% todo o dano corpo a corpo recebido de inimigos em um raio de 3 metros."
+        },
+        {
+            "id": 23,
+            "name": "Cristal da Unidade",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Você e todos os membros do grupo em um raio de 6 metros recebem 0.50% de dano reduzido para cada membro do grupo próximo."
+        },
+        {
+            "id": 24,
+            "name": "Escárnio do Degolador",
+            "dropRateByStars": 20.105,
+            "starGroup": 12,
+            "effect": "Ganha mais 8.00% de chance de acerto crítico ao atacar por trás."
+        },
+        {
+            "id": 25,
+            "name": "Núcleo de Raios",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Seus ataques primários e movimento lentamente carregam você com eletricidade. Quando a carga estiver completa, seu próximo ataque primário conjurará uma sequência de raios, causando 90% do dano básico + 1.134 a inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 26,
+            "name": "A Maldição Duradoura",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Seus ataques tem 15% de chance de amaldiçoar inimigos, reduzindo as velocidades de ataque e de movimento deles em 35% por 2.50 segundos. Só pode amaldiçoar o mesmo alvo uma vez a cada 20 segundos."
+        },
+        {
+            "id": 27,
+            "name": "Estilhaço de Volatilidade",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Ao derrotar um inimigo, você aciona uma explosão volátil, causando 30% do dano básico + 365 a todos os inimigos próximos. Só pode ocorrer uma vez a cada 6 segundos."
+        },
+        {
+            "id": 28,
+            "name": "Kir Sling",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Ao receber um ataque, você tem 15% de chance de lançar uma rajada de luz que cega todos os inimigos próximos, reduzindo a visão e causando perda total de controle por 1.30 segundos. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 29,
+            "name": "Grilhão da Dor",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Aumenta em 8.00% o dano causado a inimigos sob um efeito de dano contínuo."
+        },
+        {
+            "id": 30,
+            "name": "Cinzas da Fênix",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Impede dano fatal e concede por 6 segundos um escudo que absorve dano equivalente a 450% do seu dano básico. Só pode ocorrer uma vez a cada 180 segundos."
+        },
+        {
+            "id": 31,
+            "name": "Lasca de Carne Pétrea",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Ao causar perda total de controle a um inimigo, você também aplicará uma Maldição Explosiva nele. Quando a maldição acabar, o inimigo explodirá, recebendo 45% de todo o dano recebido durante o efeito,a té o máximo de 150.00% do seu dano básico. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 32,
+            "name": "Chamado Lamentoso",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Seu ataque primário tem 10% de chance de conjurar um espírito de lobo em disparada que causa 150% de dano básico + 1.458 a todos os inimigos no caminho. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Guarda de Batalha", "Cristal da Unidade", "Alcance Fatal", "Cinzas da Fênix", "Assombração de Zwenson"]
+        },
+        {
+            "id": 33,
+            "name": "Bile Impregnante",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Seus ataques têm 4% de chance de envenenar inimigos, causando 25% do dano básico + 263 a cada segundo por 6 segundos. Esse veneno afetará inimigos próximos se a vítima morrer. So pode afetar o mesmo alvo uma vez a cada 20 segundos.",
+            "gemRess": ["Escárnio do Degolador", "Núcleo de Raios", "Poder e Comando", "Bênção dos Dignos", "Esperança Reprimida"]
+        },
+        {
+            "id": 34,
+            "name": "Bênção dos Dignos",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Ao receber dano, você tem 20% de chance de lançar uma retaliação em todos os inimigos próximos, causando dano equivalente a 12% da sua vida atual. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Bile Impregnante", "Jade Sangrenta", "Guarda de Batalha", "Avidez", "Fardo do Seguidor"]
+        },
+        {
+            "id": 35,
+            "name": "Jade Sangrenta",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+             "effect": "Aumenta todo o dano causado por você em até 8% enquanto estiver com a vida cheia, com um bônus mínimo de 4% enquanto estiver com a vida baixa. Aumenta sua velocidaede de movimento em 10%."
+        },
+        {
+            "id": 36,
+            "name": "Sombra Ecoante",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Seus ataques têm 15% de chance de evocar um clone de sombras por 8.00 segundos que ataca inimigos próximos com um dos seus ataques primários."
+        },
+        {
+            "id": 37,
+            "name": "Esperança Reprimida",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Usar uma habilidade  para conceder um bônus aumenta o dano causado e a velocidade de movimento do alvo em 8.00% por 6 segundos. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Núcleo de Raios", "Poder e Comando", "Avidez", "Chamado Lamentoso", "Bênção dos Dignos"]
+        },
+        {
+            "id": 38,
+            "name": "Assombração de Zwenson",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Ao derrotar um inimigo, uma fera sombria ataca inimigos próximos, causando 50% do dano básico + 486. Só pode ocorrer uma vez a cada 6 segundos."
+        },
+        {
+            "id": 39,
+            "name": "Fragmento Infernígneo",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Usar uma habilidade conjura 3 Chamas Infernígneas ao seu redor que perseguem inimigos em um raio de 6 metros explodem, causando 45% do dano básico +510 a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 40,
+            "name": "Coração Gélido",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Quando você recebe dano, ativa um Escudo Gélido por 6 segundos que aplica gelidez aos inimigos agressores e absorve dano equivalente a 150% do seu dano básico + 1.458. Só é possível obter Escudo Gélido uma vez a cada 20 segundos.",
+            "gemRess": ["Guarda de Batalha", "A Maldição Duradoura", "Assombração de Zwenson", "Fardo do Seguidor", "Bênção dos Dignos"]
+        },
+        {
+            "id": 41,
+            "name": "Vontade Concentrada",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Usar uma habilidade de investida faz um  chamado de ajuda a um anjo da  guarda, lançando uma rajada de luz sagrada na sua direção que causa 55% do dano básico + 547 a todos os inimigos no caminho. Só pode ocorrer uma vez a cada 6 segundos."
+        },
+        {
+            "id": 42,
+            "name": "Recipiente Soturno",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Seu ataque primário libera um Aspecto Soturno por 6 segundos. Durante esse período, seus ataques primários acionarão lâminas soturnas que causam 30.00% de dano básico + 275. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 43,
+            "name": "Eco Exigente",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "A sua chance de bloqueio aumenta em 10.00% por 6 segundos quando você recebe um acerto crítico. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 44,
+            "name": "Ferruína",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "As suas habilidades de canalização tem 10% de chance de dissolver a armadura de inimigos por 6 segundos, aumentando em 5.00% o dano recebido por eles. O efeito só pode ocorrer no mesmo alvo uma vez a cada 20 segundos."
+        },
+        {
+            "id": 45,
+            "name": "Lamento da Mãe",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Quando causa dano, você tem 20% de chance de receber Desdém Maternal, aumentando sua chance de acerto crítico em 12.00% por 6 segundos. Só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 46,
+            "name": "Estilhaço de Fogo Estelar",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Quando causa dano, você tem 30% de chance de chover meteoritos em uma área, causando 200% de dano básico + 2026 no total. Só pode ocorrer uma vez a cada 20 segundos."
+        }
+    ],
+    "cost": {
+        "1": [
+            {
+                "id": 0,
+                "from": 1,
+                "to": 2,
+                "gemSliver": 1,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 1,
+                "from": 2,
+                "to": 3,
+                "gemSliver": 5,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 2,
+                "from": 3,
+                "to": 4,
+                "gemSliver": 10,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 3,
+                "from": 4,
+                "to": 5,
+                "gemSliver": 15,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 4,
+                "from": 5,
+                "to": 6,
+                "gemSliver": 20,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 5,
+                "from": 6,
+                "to": 7,
+                "gemSliver": 25,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 6,
+                "from": 7,
+                "to": 8,
+                "gemSliver": 30,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 7,
+                "from": 8,
+                "to": 9,
+                "gemSliver": 40,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 8,
+                "from": 9,
+                "to": 10,
+                "gemSliver": 50,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "from": 1,
+                "to": 2,
+                "gemSliver": 5,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 1,
+                "from": 2,
+                "to": 3,
+                "gemSliver": 15,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 2,
+                "from": 3,
+                "to": 4,
+                "gemSliver": 25,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 3,
+                "from": 4,
+                "to": 5,
+                "gemSliver": 0,
+                "r1Copies": 1,
+                "r3Copies": 1,
+                "r5Copies": 0
+            },
+            {
+                "id": 4,
+                "from": 5,
+                "to": 6,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 1,
+                "r5Copies": 1
+            },
+            {
+                "id": 5,
+                "from": 6,
+                "to": 7,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 1,
+                "r5Copies": 1
+            },
+            {
+                "id": 6,
+                "from": 7,
+                "to": 8,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 2,
+                "r5Copies": 1
+            },
+            {
+                "id": 7,
+                "from": 8,
+                "to": 9,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 1,
+                "r5Copies": 2
+            },
+            {
+                "id": 8,
+                "from": 9,
+                "to": 10,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 3
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "from": 1,
+                "to": 2,
+                "gemSliver": 50,
+                "r1Copies": 0,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 1,
+                "from": 2,
+                "to": 3,
+                "gemSliver": 75,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 2,
+                "from": 3,
+                "to": 4,
+                "gemSliver": 100,
+                "r1Copies": 1,
+                "r3Copies": 0,
+                "r5Copies": 0
+            },
+            {
+                "id": 3,
+                "from": 4,
+                "to": 5,
+                "gemSliver": 0,
+                "r1Copies": 1,
+                "r3Copies": 2,
+                "r5Copies": 0
+            },
+            {
+                "id": 4,
+                "from": 5,
+                "to": 6,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 3,
+                "r5Copies": 0
+            },
+            {
+                "id": 5,
+                "from": 6,
+                "to": 7,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 2,
+                "r5Copies": 1
+            },
+            {
+                "id": 6,
+                "from": 7,
+                "to": 8,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 2,
+                "r5Copies": 1
+            },
+            {
+                "id": 7,
+                "from": 8,
+                "to": 9,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 1,
+                "r5Copies": 2
+            },
+            {
+                "id": 8,
+                "from": 9,
+                "to": 10,
+                "gemSliver": 0,
+                "r1Copies": 0,
+                "r3Copies": 1,
+                "r5Copies": 2
+            }
+        ]
+    },
+    "preCalc": {
+        "1": {
+            "3": {
+                "lascas": 6,
+                "r1Copies": 1
+            },
+            "5": {
+                "lascas": 31,
+                "r1Copies": 1
+            }
+        },
+        "2": {
+            "3": {
+                "lascas": 20,
+                "r1Copies": 1
+            },
+            "5": {
+                "lascas": 65,
+                "r1Copies": 4
+            }
+        },
+        "5": {
+            "3": {
+                "lascas": 125,
+                "r1Copies": 2
+            },
+            "5": {
+                "lascas": 475,
+                "r1Copies": 8
+            }
+        }
+    }
+}

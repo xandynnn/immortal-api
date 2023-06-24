@@ -1,0 +1,28 @@
+{
+  "name": "immortal-api",
+  "version": "1.0.0",
+  "description": "Api for Diablo Immortal",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandynnn/immortal-api.git"
+  },
+  "keywords": [
+    "api",
+    "diablo",
+    "immortal"
+  ],
+  "author": "Alexandre <xandynnn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xandynnn/immortal-api/issues"
+  },
+  "homepage": "https://github.com/xandynnn/immortal-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

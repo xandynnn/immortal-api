@@ -1,0 +1,409 @@
+{
+  "Sets": [
+    {
+      "name": "Banquete de Olhos",
+      "bonus": [
+        "Dano causado a inimigos soob seus efeitos de dano contínuo aumentado em 15%.",
+        "Sua chance de acerto crítico é aumentada em 2.5%, até 25%, para cada efeito de dano contínuo que você aplicar a inimigos próximos.",
+        "Ao aplicar um efeito de dano contínuo a um inimigo, você entra em um estado de Fúria Venenosa por 12 segundos. Durante esse período, o dano causado por você corroerá os inimigos, causando 29.736 de dano a cada segundo por 3 segundos. Você só pode entrar em estado de Fúria Venenosauma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Torre Esquecida",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Ceifador Pavoroso",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Desejos de Vithu",
+      "bonus": [
+        "Aumenta a duração de todos os efeitos benéficos em você ou membros do grupo em 30%",
+        "Aumenta a velocidade de ataque do alvo em 30% por 3 segundos sempre que você usa uma habilidade para conceder um efeito benéfico para si ou um membro do grupo.",
+        "Cada vez que você usa uma habilidade para conceder bônus para si ou um membro do grupo, cria uma área de apoteose que dura 12 segundos e concede 12% de drenagem de vida a você e aos membros do grupo na área. Só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Templo de Namari",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Poço da Angústia",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Caverna do Eco",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Pacote do Barão Devorador",
+      "bonus": [
+        "Aumenta em 30% a duração das suas habilidades que causam perda de controle.",
+        "Aumenta em 15% o dano causado de todas as fontes contra inimigos sob seus efeitos de perda de controle.",
+        "Cada vez que você derrota um inimigo atingido pelos seus efeitos de perda de controle, lança uma nova de gelo, causado 9.611 de dano a inimigos próximos e congelando-os por 4 segundos. Só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Ceifador Pavoroso",
+          "piece": "Luvas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Caverna do Eco",
+          "piece": "Botas"
+        },
+        {
+          "id": 4,
+          "dungeon": "Templo de Namari",
+          "piece": "Cinto"
+        },
+        {
+          "id": 5,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 6,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Vigarista Intocável",
+      "bonus": [
+        "Cada vez que recebe dano, você tem 20% de chance de receber um escudo que absorve dano equivalente a 13% da sua vida máxima. Só pode ocorrer uma vez a cada 9 segundos.",
+        "Absorção de dano do escudo aumentada para 33% da sua vida máxima, e você pode se mover livremente através de inimigos enquanto o escudo está ativo.",
+        "Seu escudo tem 2%% de chance de explodir ao expirar, causando dano equivalente a 40% da sua vida máxima a todos os inimigos próximos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Torre Esquecida",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Poço da Angústia",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Caverna do Eco",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Trapos de Guerra de Shal'baas",
+      "bonus": [
+        "Dano de ataque primário aumentado em 15%.",
+        "Com cada ataque primário, a velocidade de ataque primário aumenta, até o máximo de 25%.",
+        "Seus ataques primários têm 5% de chance de aumentar a velocidade de ataque primário por 12 segundos. Só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Torre Esquecida",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Ceifador Pavoroso",
+          "piece": "Cinto"
+        },
+        {
+          "id": 5,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 6,
+          "dungeon": "Poço da Angústia",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Chamado do Pastor aos Lobos",
+      "bonus": [
+        "Suas evocações causam 15% de dano adicional.",
+        "Chance de acerto crítico aumentada em 3% por cada uma das suas evocações, até o máximo de 18%.",
+        "Suas evocações entram em um estado de frenesi por 12 segundos sempre que uma delas desfere um acerto crítico. O estado de frenesi aumenta a velocidade de ataque delas em 60%. Só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Templo de Namari",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Ceifador Pavoroso",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 6,
+          "dungeon": "Torre Esquecida",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Perfeição da Ventania",
+      "bonus": [
+        "Recebe Mil Ventos quando está combate, aumentando sua velocidade de movimento em 15%. Mil Ventos é desativado por 3 segundos se você receber dano.",
+        "Aumenta o dano causado por você em 20% enquanto Mil Ventos está ativo.",
+        "Recebe um escudo que torna você imune a dano 5 vezes enquanto Mil Ventos está ativo. Só é possível obter este escudo uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Torre Esquecida",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Issatar Imbuído",
+      "bonus": [
+        "Cada vez que você derrota um inimigo, ganha 30% de velocidade de movimento aumentada por 2 segundos.",
+        "Dano causado aumentado em 2,5% para cada 5% de aumento na velocidade de movimento, até um aumento de dano máximo de 25%.",
+        "Cada vez que você derrota um inimigo, tem 10% de chance de obter um orbe de alma orbital por 12 segundos que causa 3.303 de dano quando atravessa um inimigo. Só é possível obter um orbe de alma uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Torre Esquecida",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Graça do Flagelante",
+      "bonus": [
+        "Todo dano contínuo, dano canalizado e dano terrestre persistente aumentados em 15%.",
+        "Cada vez que causar dano a determinado inimigo 5 vezes, você causará 3.604 de dano adicional a esse inimigo.",
+        "Cada vez que causa dano, você tem 4% de chance de lançar um raio, causando 21.624 de dano a todos os inimigos próximos e atordoando-os por 1 segundos. Só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Poço da Angústia",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Ceifador Pavoroso",
+          "piece": "Botas"
+        },
+        {
+          "id": 4,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Cinto"
+        },
+        {
+          "id": 5,
+          "dungeon": "Caverna do Eco",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 6,
+          "dungeon": "Templo de Namari",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Prêmio do Soturnoguia",
+      "bonus": [
+        "Aumenta o dano causado por você em 15% por 3 segundos depois de usar uma habilidade de Investida.",
+        "Aumenta sua chance de acerto crítico em 22.5% por 3 segundos depois de usar uma habilidade de Investida.",
+        "Libera uma onda de terror ao final da sua habilidade de Investida, causando 15.017 de dano e fazendo inimigos próximos fugirem amedrontados por 3 segundos. A onda de terror só será acionada quando houver inimigos próximos e só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Caverna do Eco",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Poço da Angústia",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Templo de Namari",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Sementes de Ouro Semeado",
+      "bonus": [
+        "Continuar canalizando uma habilidade contra um mesmo inimigo aumenta gradualmente o dano dela. Máximo de 30%.",
+        "Após parar de canalizar uma habilidade, os inimigos atingidos sofrem uma explosão de dano adicional: 30% do dano que eles sofreram da habilidade canalizada.",
+        "Após iniciar a canalização de uma habilidade, receba Resistência de Artesão por 8 segundos. Enquanto tiver sob esse efeito, você fica imune a efeitos de repulsão e reduz o dano recebido em 40%. Este efeito não pode ocorrer mais que uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Caverna do Eco",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Poço da Angústia",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Templo de Namari",
+          "piece": "Anéis"
+        }
+      ]
+    }
+  ]
+}

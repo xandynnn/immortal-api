@@ -1,0 +1,95 @@
+{
+  "events": [
+    {
+      "name": "Portões Demoníacos",
+      "description": [
+        "Todas as segundas-feiras, quintas-feiras e domingos ao meio-dia, às 20h30 e às 22h no horário do servidor, portões demoníacos serão abertos em locais aleatórios no Reino da Perdição.",
+        "3 ou mais jogadores podem ativar um portão demoníaco e desafiar o demônio dentro dele.",
+        "Jogadores só podem receber recompensas de portões demoníacos 3 vezes por dia."
+      ],
+      "local": "Reino da Perdição",
+      "weekdays": [0, 1, 4],
+      "hours": [
+        { "hour": 12, "minutes": 0 },
+        { "hour": 20, "minutes": 30 },
+        { "hour": 22, "minutes": 0 }
+      ]
+    },
+    {
+      "name": "Carruagem Assombrada",
+      "description": [
+        "Todas as terças-feiras e sábados ao meio-dia, às 20h30 e às 22h no horário do servidor, a Carruagem Assombrada aparecerá no Cemitério de Ashwold",
+        "A Carruagem Assombrada fará diversas paradas e evocará guardas mortos-vivos.",
+        "Após diversas paradas, o Coletor de Impostos aparecerá. Derrotar o Coletor de Impostos concederá recompensas!"
+      ],
+      "local": "Cemitério de Ashwold",
+      "weekdays": [2, 6],
+      "hours": [
+        { "hour": 12, "minutes": 0 },
+        { "hour": 20, "minutes": 30 },
+        { "hour": 22, "minutes": 0 }
+      ]
+    },
+    {
+      "name": "Pesadelo Ancestral",
+      "description": [
+        "Todas as quartas-feiras e sextas-feiras ao meio-dia, às 20h30 e às 22h no horário do servidor, o Pesadelo Ancestral surgirá para assombrar o Monte Zavain.",
+        "O Pesadelo Ancestral é protegido por um escudo, que causa dano `a área próxima.",
+        "Ao ativar os altares ao redor, uma aura de luz será emitida, atordoando e enfraquecendo temporariamente o escudo do Pesadelo Ancestral quando estiver ao alcance.",
+        "Consumir os sigilos de Zakarum reiniciará o tempo de restauração dos altares e causará dano significativo ao escudo do Pesadelo Ancestral."
+      ],
+      "local": "Monte Zavain",
+      "weekdays": [3, 5],
+      "hours": [
+        { "hour": 12, "minutes": 0 },
+        { "hour": 20, "minutes": 30 },
+        { "hour": 22, "minutes": 0 }
+      ]
+    },
+    {
+      "name": "Arena Ancestral",
+      "description": [
+        "A Arena Ancestral abre todas as terças-feiras, quintas-feiras, sábados e domingos, às 21h30 no horário do servidor.",
+        "Enquanto estiver aberta, todos os jogadores podem participar de um combate entre jogadores em grupo e no formato todos contra todos.",
+        "Os jogadores derrotados serão revividos fora da Arena e não poderão entrar novamente até o evento ser concluído.",
+        "Jogadores derrotados largam orbes de energia ancestral que aumentam seu poder.",
+        "O último grupo sobrevivente conquista o Tesouro de Nefalem, cheio de recompensas."
+      ],
+      "local": "Lameira",
+      "weekdays": [0, 2, 4, 6],
+      "hours": [
+        { "hour": 21, "minutes": 30 }
+      ]
+    },
+    {
+      "name": "Fogo da Vida",
+      "description": [
+        "Participe do evento Fogo da Vida: viaje até as Cavernas da Penitência e responda aos Sussurros da Destruição. Você sofrerá a corrupção do Fogo da Vida, que te permite combater outros jogadores.;",
+        "Derrote outros jogadores para aumentar a sua corrupção e obter Fogo Cristalino como recompensa para trocar com Shurrif, o Negociante de Fogo.",
+        "Derrotar um jogador corrompido também concede a mesma quantidade de Fogo Cristalino como recompensa conforme o número das corrupções do jogador.",
+        "Cada jogador só pode largar Fogo Cristalino uma vez a cada 10 minutos, e é o valor máximo de 15 Fogo Cristalino que pode ser obtido a cada dia. Jogadores derrotados não sofrerão nenhuma perda de recursos."
+      ],
+      "local": "Berço dos Ancestrais",
+      "weekdays": [0,1,2,3,4,5,6],
+      "hours": [
+        { "hour": 20, "minutes": 30 }
+      ]
+    },
+    {
+      "name": "Ofensiva",
+      "description": [
+        "A Ofensiva ocorre todas as quintas-feiras e domingos às 12h, 20h30 e 22h.",
+        "Defenda a barreira mágica que protege o Forte do Marco da Tempestade de legiões de demônios hostis para receber uma recompensa.",
+        "Obtenha pedras trovejantes matando monstros no Marco da Tempestade e use-as para abastecer as torres de defesa em frente ao Forte.",
+        "Use as manticoras para neutralizar os escudos dos terrores estridentes."
+      ],
+      "local": "Marco da Tempestade",
+      "weekdays": [0,4],
+      "hours": [
+        { "hour": 12, "minutes": 0 },
+        { "hour": 20, "minutes": 30 },
+        { "hour": 22, "minutes": 0 }
+      ]
+    }
+  ]
+}
