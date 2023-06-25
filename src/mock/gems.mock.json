@@ -2,6 +2,7 @@
     "gems": [
         {
             "id": 0,
+            "slug": "pedra-de-zod",
             "name": "Pedra de Zod",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -9,6 +10,7 @@
         },
         {
             "id": 1,
+            "slug": "vigor-de-carsen",
             "name": "Vigor de Ca'arsen",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -16,6 +18,7 @@
         },
         {
             "id": 2,
+            "slug": "alma-desafiante",
             "name": "Alma Desafiante",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -23,6 +26,7 @@
         },
         {
             "id": 3,
+            "slug": "pedra-do-amparo",
             "name": "Pedra do Amparo",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -30,6 +34,7 @@
         },
         {
             "id": 4,
+            "slug": "magoa-da-submissao",
             "name": "Mágoa da Submissão",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -37,6 +42,7 @@
         },
         {
             "id": 5,
+            "slug": "ardil-impossivel",
             "name": "Ardil Impossível",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -45,6 +51,7 @@
         },
         {
             "id": 6,
+            "slug": "olho-do-berseker",
             "name": "Olho do Berseker",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -52,6 +59,7 @@
         },
         {
             "id": 7,
+            "slug": "fraqueza-de-seled",
             "name": "Fraqueza de Seled",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -59,6 +67,7 @@
         },
         {
             "id": 8,
+            "slug": "riso-perverso",
             "name": "Riso Perverso",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -66,6 +75,7 @@
         },
         {
             "id": 9,
+            "slug": "suplicio-eterno",
             "name": "Suplício Eterno",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -74,6 +84,7 @@
         },
         {
             "id": 10,
+            "slug": "morte-atada",
             "name": "Morte Atada",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -81,6 +92,7 @@
         },
         {
             "id": 11,
+            "slug": "coroa-do-pesadelo",
             "name": "Coroa do Pesadelo",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -89,6 +101,7 @@
         {
             "id": 12,
             "name": "Rosa Negra",
+            "slug": "rosa-negra",
             "dropRateByStars": 75.395,
             "starGroup": 1,
             "effect": "Cada vez que você recebe um ataque, tem 10% de chance de evocar vinhas que imobilizam o agressor por 1.10 segundos. Cada inimigo só pode ser afetado uma vez a cada 20 segundos."
@@ -96,6 +109,7 @@
         {
             "id": 13,
             "name": "Liberdade e Devoção",
+            "slug": "liberdade-e-devocao",
             "dropRateByStars": 75.395,
             "starGroup": 1,
             "effect": "Aumenta a duração das suas evocações em 8.00%."
@@ -103,6 +117,7 @@
         {
             "id": 14,
             "name": "Olhar Focado de Lo",
+            "slug": "olhar-focado-de-lo",
             "dropRateByStars": 75.395,
             "starGroup": 1,
             "effect": "Aumenta em 8.00% o dano causado por suas habilidades de carga."
@@ -110,6 +125,7 @@
         {
             "id": 15,
             "name": "Seixo Abençoado",
+            "slug": "seixo-abencoado",
             "dropRateByStars": 75.395,
             "starGroup": 1,
             "effect": "Aumenta a duração de efeitos benéficos em você em 4.00%.",
@@ -117,6 +133,7 @@
         },
         {
             "id": 16,
+            "slug": "pedra-coracao",
             "name": "Pedra-Coração",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -124,6 +141,7 @@
         },
         {
             "id": 17,
+            "slug": "presa-ardente",
             "name": "Presa Ardente",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -131,6 +149,7 @@
         },
         {
             "id": 18,
+            "slug": "poder-e-comando",
             "name": "Poder e Comando",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -139,6 +158,7 @@
         },
         {
             "id": 19,
+            "slug": "fardo-do-seguidor",
             "name": "Fardo do Seguidor",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -146,6 +166,7 @@
         },
         {
             "id": 20,
+            "slug": "avidez",
             "name": "Avidez",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -153,6 +174,7 @@
         },
         {
             "id": 21,
+            "slug": "alcance-fatal",
             "name": "Alcance Fatal",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -161,6 +183,7 @@
         },
         {
             "id": 22,
+            "slug": "guarda-de-batalha",
             "name": "Guarda de Batalha",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -168,6 +191,7 @@
         },
         {
             "id": 23,
+            "slug": "cristal-da-unidade",
             "name": "Cristal da Unidade",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -175,6 +199,7 @@
         },
         {
             "id": 24,
+            "slug": "escarnio-do-degolador",
             "name": "Escárnio do Degolador",
             "dropRateByStars": 20.105,
             "starGroup": 12,
@@ -182,6 +207,7 @@
         },
         {
             "id": 25,
+            "slug": "nucleo-de-raios",
             "name": "Núcleo de Raios",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -189,6 +215,7 @@
         },
         {
             "id": 26,
+            "slug": "a-maldicao-duradoura",
             "name": "A Maldição Duradoura",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -196,6 +223,7 @@
         },
         {
             "id": 27,
+            "slug": "estilhaco-de-volatilidade",
             "name": "Estilhaço de Volatilidade",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -203,6 +231,7 @@
         },
         {
             "id": 28,
+            "slug": "kir-sling",
             "name": "Kir Sling",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -210,6 +239,7 @@
         },
         {
             "id": 29,
+            "slug": "grilhao-da-dor",
             "name": "Grilhão da Dor",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -217,6 +247,7 @@
         },
         {
             "id": 30,
+            "slug": "cinzas-da-fenix",
             "name": "Cinzas da Fênix",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -224,6 +255,7 @@
         },
         {
             "id": 31,
+            "slug": "lasca-de-carne-petrea",
             "name": "Lasca de Carne Pétrea",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -231,6 +263,7 @@
         },
         {
             "id": 32,
+            "slug": "chamado-lamentoso",
             "name": "Chamado Lamentoso",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -239,6 +272,7 @@
         },
         {
             "id": 33,
+            "slug": "bile-impregnante",
             "name": "Bile Impregnante",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -247,6 +281,7 @@
         },
         {
             "id": 34,
+            "slug": "bencao-dos-dignos",
             "name": "Bênção dos Dignos",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -255,6 +290,7 @@
         },
         {
             "id": 35,
+            "slug": "jade-sangrenta",
             "name": "Jade Sangrenta",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -262,6 +298,7 @@
         },
         {
             "id": 36,
+            "slug": "sombra-ecoante",
             "name": "Sombra Ecoante",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -269,6 +306,7 @@
         },
         {
             "id": 37,
+            "slug": "esperanca-reprimida",
             "name": "Esperança Reprimida",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -277,6 +315,7 @@
         },
         {
             "id": 38,
+            "slug": "assombracao-de-zwenson",
             "name": "Assombração de Zwenson",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -284,6 +323,7 @@
         },
         {
             "id": 39,
+            "slug": "fragmento-infernigneo",
             "name": "Fragmento Infernígneo",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -291,6 +331,7 @@
         },
         {
             "id": 40,
+            "slug": "coracao-gelido",
             "name": "Coração Gélido",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -299,6 +340,7 @@
         },
         {
             "id": 41,
+            "slug": "vontade-concentrada",
             "name": "Vontade Concentrada",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -306,6 +348,7 @@
         },
         {
             "id": 42,
+            "slug": "recipiente-soturno",
             "name": "Recipiente Soturno",
             "dropRateByStars": 4.5,
             "starGroup": 5,
@@ -313,6 +356,7 @@
         },
         {
             "id": 43,
+            "slug": "eco-exigente",
             "name": "Eco Exigente",
             "dropRateByStars": 75.395,
             "starGroup": 1,
@@ -320,6 +364,7 @@
         },
         {
             "id": 44,
+            "slug": "ferruina",
             "name": "Ferruína",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -327,6 +372,7 @@
         },
         {
             "id": 45,
+            "slug": "lamento-da-mae",
             "name": "Lamento da Mãe",
             "dropRateByStars": 20.105,
             "starGroup": 2,
@@ -334,6 +380,7 @@
         },
         {
             "id": 46,
+            "slug": "estilhaco-de-fogo-estelar",
             "name": "Estilhaço de Fogo Estelar",
             "dropRateByStars": 4.5,
             "starGroup": 5,

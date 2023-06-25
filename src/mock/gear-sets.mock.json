@@ -1,7 +1,8 @@
 {
-  "Sets": [
+  "sets": [
     {
       "name": "Banquete de Olhos",
+      "slug": "banquete-de-olhos",
       "bonus": [
         "Dano causado a inimigos soob seus efeitos de dano contínuo aumentado em 15%.",
         "Sua chance de acerto crítico é aumentada em 2.5%, até 25%, para cada efeito de dano contínuo que você aplicar a inimigos próximos.",
@@ -37,6 +38,7 @@
     },
     {
       "name": "Desejos de Vithu",
+      "slug": "desejos-de-vithu",
       "bonus": [
         "Aumenta a duração de todos os efeitos benéficos em você ou membros do grupo em 30%",
         "Aumenta a velocidade de ataque do alvo em 30% por 3 segundos sempre que você usa uma habilidade para conceder um efeito benéfico para si ou um membro do grupo.",
@@ -72,6 +74,7 @@
     },
     {
       "name": "Pacote do Barão Devorador",
+      "slug": "pacote-do-barao-devorador",
       "bonus": [
         "Aumenta em 30% a duração das suas habilidades que causam perda de controle.",
         "Aumenta em 15% o dano causado de todas as fontes contra inimigos sob seus efeitos de perda de controle.",
@@ -112,6 +115,7 @@
     },
     {
       "name": "Vigarista Intocável",
+      "slug": "vigarista-intocavel",
       "bonus": [
         "Cada vez que recebe dano, você tem 20% de chance de receber um escudo que absorve dano equivalente a 13% da sua vida máxima. Só pode ocorrer uma vez a cada 9 segundos.",
         "Absorção de dano do escudo aumentada para 33% da sua vida máxima, e você pode se mover livremente através de inimigos enquanto o escudo está ativo.",
@@ -147,6 +151,7 @@
     },
     {
       "name": "Trapos de Guerra de Shal'baas",
+      "slug": "trapos-de-guerra-de-shal'baas",
       "bonus": [
         "Dano de ataque primário aumentado em 15%.",
         "Com cada ataque primário, a velocidade de ataque primário aumenta, até o máximo de 25%.",
@@ -187,6 +192,7 @@
     },
     {
       "name": "Chamado do Pastor aos Lobos",
+      "slug": "chamado-do-pastor-aos-lobos",
       "bonus": [
         "Suas evocações causam 15% de dano adicional.",
         "Chance de acerto crítico aumentada em 3% por cada uma das suas evocações, até o máximo de 18%.",
@@ -227,6 +233,7 @@
     },
     {
       "name": "Perfeição da Ventania",
+      "slug": "perfeicao-da-ventania",
       "bonus": [
         "Recebe Mil Ventos quando está combate, aumentando sua velocidade de movimento em 15%. Mil Ventos é desativado por 3 segundos se você receber dano.",
         "Aumenta o dano causado por você em 20% enquanto Mil Ventos está ativo.",
@@ -262,6 +269,7 @@
     },
     {
       "name": "Issatar Imbuído",
+      "slug": "issatar-imbuido",
       "bonus": [
         "Cada vez que você derrota um inimigo, ganha 30% de velocidade de movimento aumentada por 2 segundos.",
         "Dano causado aumentado em 2,5% para cada 5% de aumento na velocidade de movimento, até um aumento de dano máximo de 25%.",
@@ -297,6 +305,7 @@
     },
     {
       "name": "Graça do Flagelante",
+      "slug": "graca-do-flagelante",
       "bonus": [
         "Todo dano contínuo, dano canalizado e dano terrestre persistente aumentados em 15%.",
         "Cada vez que causar dano a determinado inimigo 5 vezes, você causará 3.604 de dano adicional a esse inimigo.",
@@ -337,6 +346,7 @@
     },
     {
       "name": "Prêmio do Soturnoguia",
+      "slug": "premio-do-soturnoguia",
       "bonus": [
         "Aumenta o dano causado por você em 15% por 3 segundos depois de usar uma habilidade de Investida.",
         "Aumenta sua chance de acerto crítico em 22.5% por 3 segundos depois de usar uma habilidade de Investida.",
@@ -372,6 +382,7 @@
     },
     {
       "name": "Sementes de Ouro Semeado",
+      "slug": "sementes-de-ouro-semeado",
       "bonus": [
         "Continuar canalizando uma habilidade contra um mesmo inimigo aumenta gradualmente o dano dela. Máximo de 30%.",
         "Após parar de canalizar uma habilidade, os inimigos atingidos sofrem uma explosão de dano adicional: 30% do dano que eles sofreram da habilidade canalizada.",
