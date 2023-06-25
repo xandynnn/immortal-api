@@ -6,8 +6,8 @@ const router = Router();
 
 api.use('/api/', router);
 
-require('./../../controllers/gemsController')(app);
-require('./../../controllers/eventsController')(app);
-require('./../../controllers/setsController')(app);
+require('./../../controllers/gemsController')(api);
+require('./../../controllers/eventsController')(api);
+require('./../../controllers/setsController')(api);
 
 export const handler = serverless(api);
