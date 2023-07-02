@@ -5,6 +5,7 @@ const routes = express.Router();
 const dataGems = require('../src/mock/gems.mock.json');
 const dataEvents = require('../src/mock/events.mock.json');
 const dataSets = require('../src/mock/gear-sets.mock.json');
+const dataCorvus = require('../src/mock/corvus.mock.json');
 
 const app = express();
 app.use('/api', routes);
@@ -94,6 +95,18 @@ routes.get('/events/:eventSlug', (req,res) => {
         }
     } catch (err) {
         return res.status(400).send({ error: 'Error to loading event' });
+    }
+});
+
+/*
+    Busca de perguntas de corvus
+*/
+routes.get('/corvus', (req,res) => {
+    try {
+        const corvus = dataCorvus.questions;
+        return res.send({ corvus });
+    } catch (err) {
+        return res.status(400).send({ error: 'Error to loading all corvus questions' });
     }
 });
 
