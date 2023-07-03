@@ -11,10 +11,7 @@ const dataCorvus = require('../src/mock/corvus.mock.json');
 const app = express();
 app.use('/api', routes);
 app.use(cors({
-    origin: [
-        'http://localhost',
-        'https://imortalxndnn.netlify.app'
-    ]
+    origin: '*'
 }))
 
 /*
