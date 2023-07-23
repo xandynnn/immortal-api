@@ -251,7 +251,8 @@
             "name": "Cinzas da Fênix",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Impede dano fatal e concede por 6 segundos um escudo que absorve dano equivalente a 450% do seu dano básico. Só pode ocorrer uma vez a cada 180 segundos."
+            "effect": "Impede dano fatal e concede por 6 segundos um escudo que absorve dano equivalente a 450% do seu dano básico. Só pode ocorrer uma vez a cada 180 segundos.",
+            "gemRess": ["Poder e Comando", "Avidez", "Alcance Fatal", "Lasca de Carne Pétrea", "Chamado Lamentoso"]
         },
         {
             "id": 31,
@@ -259,7 +260,8 @@
             "name": "Lasca de Carne Pétrea",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Ao causar perda total de controle a um inimigo, você também aplicará uma Maldição Explosiva nele. Quando a maldição acabar, o inimigo explodirá, recebendo 45% de todo o dano recebido durante o efeito,a té o máximo de 150.00% do seu dano básico. Só pode ocorrer uma vez a cada 20 segundos."
+            "effect": "Ao causar perda total de controle a um inimigo, você também aplicará uma Maldição Explosiva nele. Quando a maldição acabar, o inimigo explodirá, recebendo 45% de todo o dano recebido durante o efeito,a té o máximo de 150.00% do seu dano básico. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Fardo do Seguidor", "Cristal da Unidade", "Escárnio do Degolador", "Cinzas da Fênix", "Bile Impregnante"]
         },
         {
             "id": 32,
@@ -294,7 +296,8 @@
             "name": "Jade Sangrenta",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-             "effect": "Aumenta todo o dano causado por você em até 8% enquanto estiver com a vida cheia, com um bônus mínimo de 4% enquanto estiver com a vida baixa. Aumenta sua velocidaede de movimento em 10%."
+            "effect": "Aumenta todo o dano causado por você em até 8% enquanto estiver com a vida cheia, com um bônus mínimo de 4% enquanto estiver com a vida baixa. Aumenta sua velocidaede de movimento em 10%.",
+            "gemRess": ["Cristal da Unidade", "Escárnio do Degolador", "Núcleo de Raios", "Assombração de Zwenson", "Sombra Ecoante"]
         },
         {
             "id": 36,
@@ -302,7 +305,8 @@
             "name": "Sombra Ecoante",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Seus ataques têm 15% de chance de evocar um clone de sombras por 8.00 segundos que ataca inimigos próximos com um dos seus ataques primários."
+            "effect": "Seus ataques têm 15% de chance de evocar um clone de sombras por 8.00 segundos que ataca inimigos próximos com um dos seus ataques primários.",
+            "gemRess": ["Guarda de Batalha", "Cristal da Unidade", "Escárnio do Degolador", "Lasca de Carne Pétrea", "Esperança Reprimida"]
         },
         {
             "id": 37,
@@ -319,7 +323,8 @@
             "name": "Assombração de Zwenson",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Ao derrotar um inimigo, uma fera sombria ataca inimigos próximos, causando 50% do dano básico + 486. Só pode ocorrer uma vez a cada 6 segundos."
+            "effect": "Ao derrotar um inimigo, uma fera sombria ataca inimigos próximos, causando 50% do dano básico + 486. Só pode ocorrer uma vez a cada 6 segundos.",
+            "gemRess": ["Avidez", "Cristal da Unidade", "Núcleo de Raios", "Jade Sangrenta", "Sombra Ecoante"]
         },
         {
             "id": 39,
@@ -327,7 +332,8 @@
             "name": "Fragmento Infernígneo",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Usar uma habilidade conjura 3 Chamas Infernígneas ao seu redor que perseguem inimigos em um raio de 6 metros explodem, causando 45% do dano básico +510 a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos."
+            "effect": "Usar uma habilidade conjura 3 Chamas Infernígneas ao seu redor que perseguem inimigos em um raio de 6 metros explodem, causando 45% do dano básico +510 a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Kir Sling", "A Maldição Duradoura", "Estilhaço de Volatilidade", "Vontade Concentrada", "Coração Gélido"]        
         },
         {
             "id": 40,
@@ -344,7 +350,8 @@
             "name": "Vontade Concentrada",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Usar uma habilidade de investida faz um  chamado de ajuda a um anjo da  guarda, lançando uma rajada de luz sagrada na sua direção que causa 55% do dano básico + 547 a todos os inimigos no caminho. Só pode ocorrer uma vez a cada 6 segundos."
+            "effect": "Usar uma habilidade de investida faz um  chamado de ajuda a um anjo da  guarda, lançando uma rajada de luz sagrada na sua direção que causa 55% do dano básico + 547 a todos os inimigos no caminho. Só pode ocorrer uma vez a cada 6 segundos.",
+            "gemRess": ["Kir Sling", "Alcance Fatal", "Estilhaço de Volatilidade", "Fragmento Infernígneo", "Coração Gélido"]
         },
         {
             "id": 42,
@@ -352,7 +359,8 @@
             "name": "Recipiente Soturno",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Seu ataque primário libera um Aspecto Soturno por 6 segundos. Durante esse período, seus ataques primários acionarão lâminas soturnas que causam 30.00% de dano básico + 275. Só pode ocorrer uma vez a cada 20 segundos."
+            "effect": "Seu ataque primário libera um Aspecto Soturno por 6 segundos. Durante esse período, seus ataques primários acionarão lâminas soturnas que causam 30.00% de dano básico + 275. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Fardo do Seguidor", "Poder e Comando", "A Maldição Duradoura", "Cinzas da Fênix", "Lasca de Carne Pétrea"]
         },
         {
             "id": 43,
@@ -384,7 +392,17 @@
             "name": "Estilhaço de Fogo Estelar",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Quando causa dano, você tem 30% de chance de chover meteoritos em uma área, causando 200% de dano básico + 2026 no total. Só pode ocorrer uma vez a cada 20 segundos."
+            "effect": "Quando causa dano, você tem 30% de chance de chover meteoritos em uma área, causando 200% de dano básico + 2026 no total. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess":["Kir Sling", "Estilhaço de Volatilidade", "Núcleo de Raios", "Fragmento Infernígneo", "Vontade Concentrada"]
+        },
+        {
+            "id": 47,
+            "slug": "sangue-malevolo",
+            "name": "Sangue Malévolo",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Receber dano enquanto estiver com menos de 50% de Vida faz com que Sangue Malévolo percorra por você por 4 segundos, aumentando em 4% seu dano causado e deixando você invulnerável a ataques primários de outros jogadores. Sangue Malévolo só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Guarda de Batalha", "Alcance Fatal", "Kir Sling", "Sombra Ecoante", "Coração Gélido"]
         }
     ],
     "cost": {
