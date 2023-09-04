@@ -187,7 +187,8 @@
             "name": "Guarda de Batalha",
             "dropRateByStars": 20.105,
             "starGroup": 2,
-            "effect": "Reduz em 8.00% todo o dano corpo a corpo recebido de inimigos em um raio de 3 metros."
+            "effect": "Reduz em 8.00% todo o dano corpo a corpo recebido de inimigos em um raio de 3 metros.",
+            "gemRess": ["Riso Perverso", "Alcance Fatal", "Fardo do Seguidor"]
         },
         {
             "id": 23,

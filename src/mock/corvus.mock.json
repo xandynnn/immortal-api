@@ -179,6 +179,11 @@
             "id": 35,
             "question": "Quanto mais são removidos, mais são deixados para trás",
             "answer": "Passos"
+        },
+        {
+            "id": 36,
+            "question": "Vive, mas não respira. É frio como a morte. Não tem sede, mas sempre bebe.",
+            "answer": "Peixe"
         }
     ]
 }
