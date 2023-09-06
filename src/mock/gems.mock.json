@@ -385,7 +385,8 @@
             "name": "Lamento da Mãe",
             "dropRateByStars": 20.105,
             "starGroup": 2,
-            "effect": "Quando causa dano, você tem 20% de chance de receber Desdém Maternal, aumentando sua chance de acerto crítico em 12.00% por 6 segundos. Só pode ocorrer uma vez a cada 20 segundos."
+            "effect": "Quando causa dano, você tem 20% de chance de receber Desdém Maternal, aumentando sua chance de acerto crítico em 12.00% por 6 segundos. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Morte Atada", "Fardo do Seguidor", "Poder e Comando"]
         },
         {
             "id": 46,
