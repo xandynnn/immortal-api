@@ -405,6 +405,31 @@
             "starGroup": 5,
             "effect": "Receber dano enquanto estiver com menos de 50% de Vida faz com que Sangue Malévolo percorra por você por 4 segundos, aumentando em 4% seu dano causado e deixando você invulnerável a ataques primários de outros jogadores. Sangue Malévolo só pode ocorrer uma vez a cada 20 segundos.",
             "gemRess": ["Guarda de Batalha", "Alcance Fatal", "Kir Sling", "Sombra Ecoante", "Coração Gélido"]
+        },
+        {
+            "id": 48,
+            "slug": "mordida-da-vibora",
+            "name": "Mordida da víbora",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Causar dano a inimigos aplica neles o Veneno da Víbora, fazendo com que recebam 16% de dano básico +120 de dano a cada segundo por 6 segundos. Só pode ocorrer uma vez a cada 20 segundos no mesmo alvo."
+            
+        },
+        {
+            "id": 49,
+            "slug": "olho-do-inflexivel",
+            "name": "Olho do Inflexível",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Dano contínuo causado aumentado em 6.00%."
+        },
+        {
+            "id": 50,
+            "slug": "centelha-do-vazio",
+            "name": "Centelha do Vazio",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Receber dano enquanto estiver com menos de 50% de Vida faz com que Sangue Malévolo percorra por você por 4 segundos, aumentando em 4% seu dano causado e deixando você invulnerável a ataques primários de outros jogadores. Sangue Malévolo só pode ocorrer uma vez a cada 20 segundos."
         }
     ],
     "cost": {
