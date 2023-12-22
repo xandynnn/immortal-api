@@ -430,6 +430,30 @@
             "dropRateByStars": 4.5,
             "starGroup": 5,
             "effect": "Receber dano enquanto estiver com menos de 50% de Vida faz com que Sangue Malévolo percorra por você por 4 segundos, aumentando em 4% seu dano causado e deixando você invulnerável a ataques primários de outros jogadores. Sangue Malévolo só pode ocorrer uma vez a cada 20 segundos."
+        },
+        {
+            "id": 51,
+            "slug": "desprezo-igneo",
+            "name": "Desprezo Ígneo",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Seus acertos críticos desencadeiam explosões que causam 40% do dano básico +456 a inimigos próximos. As explosões só podem ocorrer uma vez a cada 6 segundos."
+        },
+        {
+            "id": 52,
+            "slug": "bocarra-das-profundezas",
+            "name": "Bocarra das Profundezas",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Causar dano conjura um redemoinho na posição atual do inimigo, que desloca inimigos próximos para o seu centro. Após 2 segundos, um monstro marinho enorme surge do redemoinho, causando 1400% de dano básico + 1701 a todos os inimigos próximos, arremessando-os para o alto. Só pode ser ativado uma vez a cada 200 segundos. "
+        },
+        {
+            "id": 53,
+            "slug": "passagem-nao-tratada",
+            "name": "Passagem Não Tratada",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Dano recebido por você enquanto se move reduzido em 5.00%."
         }
     ],
     "cost": {
