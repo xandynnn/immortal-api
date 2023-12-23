@@ -116,7 +116,7 @@ routes.get('/corvus', (req,res) => {
 /*
     Busca todos os videos
 */
-routes.get('/', (req,res) => {
+routes.get('/videos', (req,res) => {
     try {
         const videos = dataVideos.videos;
         return res.send({ videos });
