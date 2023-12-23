@@ -1,0 +1,22 @@
+{
+    "videos": [
+      {
+        "id": 0,
+        "title": "PvP matando baleias",
+        "url": "https://www.youtube.com/watch?v=BESpTfZYVTM",
+        "thumb": "https://i.ytimg.com/vi/BESpTfZYVTM/sddefault.jpg"
+      },
+      {
+        "id": 1,
+        "title": "PvP Cofre",
+        "url": "https://www.youtube.com/watch?v=LTKUO3QI9Lw",
+        "thumb": "https://i.ytimg.com/vi/LTKUO3QI9Lw/sddefault.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Evento de Halloween",
+        "url": "https://www.youtube.com/watch?v=BMpDoHb-V-s",
+        "thumb": "https://i.ytimg.com/vi/BMpDoHb-V-s/sddefault.jpg"
+      }
+    ]
+}
