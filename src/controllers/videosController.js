@@ -3,7 +3,7 @@ const router = express.Router();
 const data = require('../mock/videos.mock.json');
 
 /*
-    Busca todos os sets
+    Busca todos os videos
 */
 router.get('/', (req,res) => {
     try {

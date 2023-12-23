@@ -7,6 +7,7 @@ const dataGems = require('../src/mock/gems.mock.json');
 const dataEvents = require('../src/mock/events.mock.json');
 const dataSets = require('../src/mock/gear-sets.mock.json');
 const dataCorvus = require('../src/mock/corvus.mock.json');
+const dataVideos = require('../src/mock/videos.mock.json');
 
 const app = express();
 app.use(cors({origin: '*'}));
@@ -109,6 +110,18 @@ routes.get('/corvus', (req,res) => {
         return res.send({ corvus });
     } catch (err) {
         return res.status(400).send({ error: 'Error to loading all corvus questions' });
+    }
+});
+
+/*
+    Busca todos os videos
+*/
+routes.get('/', (req,res) => {
+    try {
+        const videos = dataVideos.videos;
+        return res.send({ videos });
+    } catch (err) {
+        return res.status(400).send({ error: 'Error to loading videos' });
     }
 });
 
