@@ -450,6 +450,42 @@
           "piece": "Botas"
         }
       ]
+    },
+    {
+      "name": "Descoberta de Angmet",
+      "slug": "descoberta-de-angmet",
+      "bonus": [
+        "Aumenta a duração do seu status adicional de Incendiar em 30%.",
+        "Causa Dano. Há 15% de chance de aplicar o status de Incendiar a um Incendiar a um inimigo ao causar dano, causando 17325 pontos de dano ao longo de 3 segundos, até o máximo de 3.",
+        "Ao aplicar Incendiar a um inimigo, você imediatamente recebe 12s de Fogo Explosivo (recarga 40s), fazendo com que os ataques que atingirem um inimigo com 12 Incendiar explodam imediatamente, causando 12.031 pontos de dano de longo alcance, com uma recarga de 0,5s."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Torre Esquecida",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Catedral de Tristram",
+          "piece": "Anéis"
+        }
+      ]
     }
   ]
 }

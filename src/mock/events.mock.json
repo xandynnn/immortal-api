@@ -4,12 +4,12 @@
       "name": "Portões Demoníacos",
       "slug": "portoes-demoniacos",
       "description": [
-        "Todas as segundas-feiras, quintas-feiras e domingos ao meio-dia, às 20h30 e às 22h no horário do servidor, portões demoníacos serão abertos em locais aleatórios no Reino da Perdição.",
+        "Todas as segundas-feiras ao meio-dia, às 20h30 e às 22h no horário do servidor, portões demoníacos serão abertos em locais aleatórios no Reino da Perdição.",
         "3 ou mais jogadores podem ativar um portão demoníaco e desafiar o demônio dentro dele.",
         "Jogadores só podem receber recompensas de portões demoníacos 3 vezes por dia."
       ],
       "place": "Reino da Perdição",
-      "weekdays": [0, 1, 4],
+      "weekdays": [1],
       "hours": [
         { "hour": 12, "minutes": 0 },
         { "hour": 20, "minutes": 30 },
