@@ -236,7 +236,8 @@
             "name": "Kir Sling",
             "dropRateByStars": 20.105,
             "starGroup": 2,
-            "effect": "Ao receber um ataque, você tem 15% de chance de lançar uma rajada de luz que cega todos os inimigos próximos, reduzindo a visão e causando perda total de controle por 1.30 segundos. Só pode ocorrer uma vez a cada 20 segundos."
+            "effect": "Ao receber um ataque, você tem 15% de chance de lançar uma rajada de luz que cega todos os inimigos próximos, reduzindo a visão e causando perda total de controle por 1.30 segundos. Só pode ocorrer uma vez a cada 20 segundos.",
+            "gemRess": ["Pedra-Coração", "Estilhaço de Volatilidade", "A Maldição Duradoura"]
         },
         {
             "id": 29,
@@ -445,7 +446,8 @@
             "name": "Bocarra das Profundezas",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Causar dano conjura um redemoinho na posição atual do inimigo, que desloca inimigos próximos para o seu centro. Após 2 segundos, um monstro marinho enorme surge do redemoinho, causando 1400% de dano básico + 1701 a todos os inimigos próximos, arremessando-os para o alto. Só pode ser ativado uma vez a cada 200 segundos. "
+            "effect": "Causar dano conjura um redemoinho na posição atual do inimigo, que desloca inimigos próximos para o seu centro. Após 2 segundos, um monstro marinho enorme surge do redemoinho, causando 1400% de dano básico + 1701 a todos os inimigos próximos, arremessando-os para o alto. Só pode ser ativado uma vez a cada 200 segundos.",
+            "gemRess": ["Guarda de Batalha", "Avidez", "Grilhão da Dor", "Fragmento Infernígneo", "Vontade Concentrada"]
         },
         {
             "id": 53,
