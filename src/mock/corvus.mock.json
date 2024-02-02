@@ -57,8 +57,8 @@
         },
         {
             "id": 11,
-            "question": "Anjo que ajudou a criar a humanidade",
-            "answer": "Inarius"
+            "question": "Este anjo ajudou a criar a humanidade.",
+            "answer": "Inárius"
         },
         {
             "id": 12,
@@ -112,7 +112,7 @@
         },
         {
             "id": 22,
-            "question": "Worldstone é conhecida por estes nomes, exceto",
+            "question": "A Pedra do Mundo é conhecida por todos estes nomes, exceto um:",
             "answer": "A Lança de Cristal"
         },
         {
@@ -152,7 +152,7 @@
         },
         {
             "id": 30,
-            "question": "Lagos sem água, montanhas sem pedra...",
+            "question": "Tem lagos, mas não tem água. Tem montanhas, mas não tem construções.",
             "answer": "Mapa"
         },
         {
