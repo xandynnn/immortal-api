@@ -456,6 +456,30 @@
             "dropRateByStars": 75.395,
             "starGroup": 1,
             "effect": "Dano recebido por você enquanto se move reduzido em 5.00%."
+        },
+        {
+            "id": 54,
+            "slug": "elixir-da-miseria",
+            "name": "Elixir da Miséria",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "A duração dos efeitos nocivos causados por você é aumentada em 8,0%."
+        },
+        {
+            "id": 55,
+            "slug": "lagrima-do-cometa",
+            "name": "Lágrima do Cometa",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Todo seguindo no qual você mantém uma habilidade canalizada, você lança 2 mísseis arcanos que causam 10% de dano básico + 120 a inimigos aleatórios."
+        },
+        {
+            "id": 56,
+            "slug": "consequencia-turbulenta",
+            "name": "Consequência Turbulenta",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 12%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Fúria arrebatadora não pode ser ativada mais do que uma vez a cada 200 segundos."
         }
     ],
     "cost": {

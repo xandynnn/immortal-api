@@ -17,7 +17,7 @@
         },
         {
             "id": 3,
-            "question": "Demônio que ajudou a criar o mundo do Santuário",
+            "question": "Esta criatura demoníaca ajudou a criar o mundo de Santuário:",
             "answer": "Lilith"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "id": 21,
-            "question": "O Clã Mago que primeiro invocou demônios em Santuário",
+            "question": "Este clã de magos foi o primeiro a evocar demônios em Santuário.",
             "answer": "Vizjerei"
         },
         {
