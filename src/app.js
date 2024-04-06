@@ -9,6 +9,7 @@ require('./controllers/gemsController')(app);
 require('./controllers/eventsController')(app);
 require('./controllers/setsController')(app);
 require('./controllers/videosController')(app);
+require('./controllers/fishController')(app);
 
 app.listen(process.env.PORT || 3000, () => {
     console.log(`Server running on port ${port}`);

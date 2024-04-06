@@ -125,4 +125,16 @@ routes.get('/videos', (req,res) => {
     }
 });
 
+/*
+    Busca todos os peixes
+*/
+routes.get('/fish', (req,res) => {
+    try {
+        const fish = data.fish;
+        return res.send({ fish });
+    } catch (err) {
+        return res.status(400).send({ error: 'Error to loading all fish' });
+    }
+});
+
 module.exports.handler = serverless(app)
