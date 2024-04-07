@@ -6,15 +6,17 @@
             "page": 277,
             "time": "Dia todo",
             "location": ["Tundra Congelada", "Lameira"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/bigmouth.webp"
         },
         {
             "id": 1,
-            "name": "Bream",
+            "name": "Brema",
             "page": 278,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/bream.webp"
         },
         {
             "id": 2,
@@ -22,39 +24,44 @@
             "page": 279,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/candiru.webp"
         },
         {
             "id": 3,
-            "name": "Crappie",
+            "name": "Pomoxis",
             "page": 280,
             "time": "Dia todo",
             "location": ["Tundra Congelada", "Cemitério de Ashwold"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/crappie.webp"
         },
         {
             "id": 4,
-            "name": "Dace",
+            "name": "Escalo",
             "page": 281,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/dace.webp"
         },
         {
             "id": 5,
-            "name": "Haddock",
+            "name": "Hadoque",
             "page": 282,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/haddock.webp"
         },
         {
             "id": 6,
-            "name": "Pike",
+            "name": "Lúcio",
             "page": 283,
             "time": "Dia todo",
             "location": ["Cemitério de Ashwold"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/pike.webp"
         },
         {
             "id": 7,
@@ -62,15 +69,17 @@
             "page": 284,
             "time": "Dia todo",
             "location": ["Lameira"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/prawn.webp"
         },
         {
             "id": 8,
-            "name": "Scommack",
+            "name": "Scovalinho",
             "page": 285,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/scommack.webp"
         },
         {
             "id": 9,
@@ -78,7 +87,8 @@
             "page": 286,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
-            "quality": "Comum"
+            "quality": "Comum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/tench.webp"
         },
         {
             "id": 10,
@@ -86,23 +96,26 @@
             "page": 287,
             "time": "Dia todo",
             "location": ["Lameira","Tundra Congelada"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/barracuda.webp"
         },
         {
             "id": 11,
-            "name": "Bluefish",
+            "name": "Anchova",
             "page": 288,
             "time": "08h00 ~ 12h00",
             "location": ["Cemitério de Ashwold"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/bluefish.webp"
         },
         {
             "id": 12,
-            "name": "Grouper",
+            "name": "Garoupa",
             "page": 289,
             "time": "Dia todo",
             "location": ["Lameira", "Tundra Congelada"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/grouper.webp"
         },
         {
             "id": 13,
@@ -110,47 +123,53 @@
             "page": 290,
             "time": "Dia todo",
             "location": ["Lameira", "Tundra Congelada"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/leansharl.webp"
         },
         {
             "id": 14,
-            "name": "Puffer",
+            "name": "Baiacú",
             "page": 291,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/puffer.webp"
         },
         {
             "id": 15,
-            "name": "Rute Onder",
+            "name": "Subvaras",
             "page": 292,
             "time": "20h00 ~ 00h00",
             "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/ruteonder.webp"
         },
         {
             "id": 16,
-            "name": "Brown Snapper",
+            "name": "Pargo Marrom",
             "page": 293,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/snapper.webp"
         },
         {
             "id": 17,
-            "name": "Walley",
+            "name": "Perca",
             "page": 294,
             "time": "08h00 ~ 12h00",
             "location": ["Tundra Congelada"],
-            "quality": "Incomum"
+            "quality": "Incomum",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/walleye.webp"
         },
         {
             "id": 18,
-            "name": "Beggar's Ick",
+            "name": "Íctio de Pedinte",
             "page": 295,
             "time": "20h00 ~ 00h00",
             "location": ["Cemitério de Ashwold"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/beggarick.webp"
         },
         {
             "id": 19,
@@ -158,7 +177,8 @@
             "page": 296,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/carp.webp"
         },
         {
             "id": 20,
@@ -166,15 +186,17 @@
             "page": 297,
             "time": "Dia todo",
             "location": ["Lameira"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/cod.webp"
         },
         {
             "id": 21,
-            "name": "Mudgulp",
+            "name": "Papalama",
             "page": 298,
             "time": "20h00 ~ 00h00",
             "location": ["Tundra Congelada"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/mudgulp.webp"
         },
         {
             "id": 22,
@@ -182,23 +204,26 @@
             "page": 299,
             "time": "Dia todo",
             "location": ["Lameira","Cemitério de Ashwold"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/salmon.webp"
         },
         {
             "id": 23,
-            "name": "Silversnip",
+            "name": "Pingoprata",
             "page": 300,
             "time": "08h00 ~ 12h00",
             "location": ["Lameira"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/silversnip.webp"
         },
         {
             "id": 24,
-            "name": "Trout",
+            "name": "Truta",
             "page": 301,
             "time": "08h00 ~ 12h00",
             "location": ["Tundra Congelada"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/trout.webp"
         },
         {
             "id": 25,
@@ -206,7 +231,8 @@
             "page": 302,
             "time": "Dia todo",
             "location": ["Qualquer lugar"],
-            "quality": "Raro"
+            "quality": "Raro",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/whitefish.webp"
         },
         {
             "id": 26,
@@ -214,7 +240,8 @@
             "page": 303,
             "time": "08h00 ~ 12h00",
             "location": ["Cemitério de Ashwold"],
-            "quality": "Lendário"
+            "quality": "Lendário",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/crogill.webp"
         },
         {
             "id": 27,
@@ -222,7 +249,8 @@
             "page": 304,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
-            "quality": "Lendário"
+            "quality": "Lendário",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/eel.webp"
         },
         {
             "id": 28,
@@ -230,23 +258,26 @@
             "page": 305,
             "time": "Dia todo",
             "location": ["Lameira", "Tundra Congelada"],
-            "quality": "Lendário"
+            "quality": "Lendário",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/kelpthie.webp"
         },
         {
             "id": 29,
-            "name": "Sheatfish",
+            "name": "Siluro",
             "page": 306,
             "time": "Dia todo",
             "location": ["Lameira"],
-            "quality": "Lendário"
+            "quality": "Lendário",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/sheatfish.webp"
         },
         {
             "id": 30,
-            "name": "Sturgeon",
+            "name": "Esturjão",
             "page": 307,
             "time": "Dia todo",
             "location": ["Cemitério de Ashwold"],
-            "quality": "Lendário"
+            "quality": "Lendário",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/sturgeon.webp"
         },
         {
             "id": 31,
@@ -254,39 +285,44 @@
             "page": 308,
             "time": "08h00 ~ 12h00",
             "location": ["Lameira"],
-            "quality": "Lendário"
+            "quality": "Lendário",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/tarpon.webp"
         },
         {
             "id": 32,
-            "name": "Borebrunt",
+            "name": "Narispinho",
             "page": 309,
             "time": "20h00 ~ 00h00",
             "location": ["Lameira"],
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/borebrunt.webp"
         },
         {
             "id": 33,
-            "name": "Coral Sage",
+            "name": "Sálvia Coral",
             "page": 310,
             "time": "08h00 ~ 12h00",
             "location": ["Tundra Congelada"], 
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/coralsage.webp"
         },
         {
             "id": 34,
-            "name": "Gatefysc",
+            "name": "Peixeporta",
             "page": 311,
             "time": "Dia todo",
             "location": ["Lameira"], 
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/gatefysk.webp"
         },
         {
             "id": 35,
-            "name": "Moonspine",
+            "name": "Espinhalua",
             "page": 312,
             "time": "20h00 ~ 00h00",
             "location": ["Cemitério de Ashwold"], 
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/moonspine.webp"
         },
         {
             "id": 36,
@@ -294,31 +330,35 @@
             "page": 313,
             "time": "Dia todo",
             "location": ["Tundra Congelada"], 
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/nocbrodd.webp"
         },
         {
             "id": 37,
-            "name": "Ribwright",
+            "name": "Costeleiro",
             "page": 314,
             "time": "08h00 ~ 12h00",
             "location": ["Lameira"], 
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/ribwright.webp"
         },
         {
             "id": 38,
-            "name": "Swordfish",
+            "name": "Espadarte",
             "page": 315,
             "time": "Dia todo",
             "location": ["Lameira"], 
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/swordfish.webp"
         },
         {
             "id": 39,
-            "name": "Tuna",
+            "name": "Atum",
             "page": 316,
             "time": "Dia todo",
             "location": ["Cemitério de Ashwold"], 
-            "quality": "Mítico"
+            "quality": "Mítico",
+            "image": "https://immortalapi.netlify.app/src/assets/fish/tuna.webp"
         }
     ]
 }
