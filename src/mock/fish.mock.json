@@ -2,8 +2,8 @@
     "fish": [
         {
             "id": 0,
-            "name": "Bigmouth",
-            "page": 239,
+            "name": "Bocarra",
+            "page": 277,
             "time": "Dia todo",
             "location": ["Tundra Congelada", "Lameira"],
             "quality": "Comum"
@@ -11,7 +11,7 @@
         {
             "id": 1,
             "name": "Bream",
-            "page": 240,
+            "page": 278,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
             "quality": "Comum"
@@ -19,7 +19,7 @@
         {
             "id": 2,
             "name": "Candiru",
-            "page": 241,
+            "page": 279,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
             "quality": "Comum"
@@ -27,7 +27,7 @@
         {
             "id": 3,
             "name": "Crappie",
-            "page": 242,
+            "page": 280,
             "time": "Dia todo",
             "location": ["Tundra Congelada", "Cemitério de Ashwold"],
             "quality": "Comum"
@@ -35,7 +35,7 @@
         {
             "id": 4,
             "name": "Dace",
-            "page": 243,
+            "page": 281,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
             "quality": "Comum"
@@ -43,7 +43,7 @@
         {
             "id": 5,
             "name": "Haddock",
-            "page": 244,
+            "page": 282,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
             "quality": "Comum"
@@ -51,287 +51,271 @@
         {
             "id": 6,
             "name": "Pike",
-            "page": 245,
+            "page": 283,
             "time": "Dia todo",
             "location": ["Cemitério de Ashwold"],
             "quality": "Comum"
         },
         {
             "id": 7,
-            "name": "Prawn",
-            "page": 246,
+            "name": "Camarão",
+            "page": 284,
             "time": "Dia todo",
             "location": ["Lameira"],
             "quality": "Comum"
         },
         {
             "id": 8,
-            "name": "Prawn",
-            "page": 246,
-            "time": "Dia todo",
-            "location": ["Lameira"],
-            "quality": "Comum"
-        },
-        {
-            "id": 9,
             "name": "Scommack",
-            "page": 247,
+            "page": 285,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
             "quality": "Comum"
         },
         {
+            "id": 9,
+            "name": "Tenca",
+            "page": 286,
+            "time": "Dia todo",
+            "location": ["Tundra Congelada"],
+            "quality": "Comum"
+        },
+        {
             "id": 10,
-            "name": "Tench",
-            "page": 248,
-            "time": "Dia todo",
-            "location": ["Tundra Congelada"],
-            "quality": "Comum"
-        },
-        {
-            "id": 11,
-            "name": "Tench",
-            "page": 248,
-            "time": "Dia todo",
-            "location": ["Tundra Congelada"],
-            "quality": "Comum"
-        },
-        {
-            "id": 12,
             "name": "Barracuda",
-            "page": 249,
+            "page": 287,
             "time": "Dia todo",
             "location": ["Lameira","Tundra Congelada"],
             "quality": "Incomum"
         },
         {
-            "id": 13,
+            "id": 11,
             "name": "Bluefish",
-            "page": 250,
+            "page": 288,
             "time": "08h00 ~ 12h00",
             "location": ["Cemitério de Ashwold"],
             "quality": "Incomum"
         },
         {
-            "id": 14,
+            "id": 12,
             "name": "Grouper",
-            "page": 251,
+            "page": 289,
             "time": "Dia todo",
             "location": ["Lameira", "Tundra Congelada"],
+            "quality": "Incomum"
+        },
+        {
+            "id": 13,
+            "name": "Seresguio",
+            "page": 290,
+            "time": "Dia todo",
+            "location": ["Lameira", "Tundra Congelada"],
+            "quality": "Incomum"
+        },
+        {
+            "id": 14,
+            "name": "Puffer",
+            "page": 291,
+            "time": "Dia todo",
+            "location": ["Lameira", "Cemitério de Ashwold"],
             "quality": "Incomum"
         },
         {
             "id": 15,
-            "name": "Lean Sharl",
-            "page": 252,
-            "time": "Dia todo",
-            "location": ["Lameira", "Tundra Congelada"],
+            "name": "Rute Onder",
+            "page": 292,
+            "time": "20h00 ~ 00h00",
+            "location": ["Lameira", "Cemitério de Ashwold"],
             "quality": "Incomum"
         },
         {
             "id": 16,
-            "name": "Puffer",
-            "page": 253,
+            "name": "Brown Snapper",
+            "page": 293,
             "time": "Dia todo",
             "location": ["Lameira", "Cemitério de Ashwold"],
             "quality": "Incomum"
         },
         {
             "id": 17,
-            "name": "Rute Onder",
-            "page": 254,
-            "time": "20h00 ~ 00h00",
-            "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Incomum"
-        },
-        {
-            "id": 18,
-            "name": "Brown Snapper",
-            "page": 255,
-            "time": "Dia todo",
-            "location": ["Lameira", "Cemitério de Ashwold"],
-            "quality": "Incomum"
-        },
-        {
-            "id": 19,
             "name": "Walley",
-            "page": 256,
+            "page": 294,
             "time": "08h00 ~ 12h00",
             "location": ["Tundra Congelada"],
             "quality": "Incomum"
         },
         {
-            "id": 20,
+            "id": 18,
             "name": "Beggar's Ick",
-            "page": 257,
+            "page": 295,
             "time": "20h00 ~ 00h00",
             "location": ["Cemitério de Ashwold"],
             "quality": "Raro"
         },
         {
-            "id": 21,
+            "id": 19,
             "name": "Carpa",
-            "page": 258,
+            "page": 296,
             "time": "Dia todo",
+            "location": ["Tundra Congelada"],
+            "quality": "Raro"
+        },
+        {
+            "id": 20,
+            "name": "Bacalhau",
+            "page": 297,
+            "time": "Dia todo",
+            "location": ["Lameira"],
+            "quality": "Raro"
+        },
+        {
+            "id": 21,
+            "name": "Mudgulp",
+            "page": 298,
+            "time": "20h00 ~ 00h00",
             "location": ["Tundra Congelada"],
             "quality": "Raro"
         },
         {
             "id": 22,
-            "name": "Cod",
-            "page": 259,
-            "time": "Dia todo",
-            "location": ["Lameira"],
-            "quality": "Raro"
-        },
-        {
-            "id": 23,
-            "name": "Mudgulp",
-            "page": 260,
-            "time": "20h00 ~ 00h00",
-            "location": ["Tundra Congelada"],
-            "quality": "Raro"
-        },
-        {
-            "id": 24,
             "name": "Salmão",
-            "page": 261,
+            "page": 299,
             "time": "Dia todo",
             "location": ["Lameira","Cemitério de Ashwold"],
             "quality": "Raro"
         },
         {
-            "id": 25,
+            "id": 23,
             "name": "Silversnip",
-            "page": 262,
+            "page": 300,
             "time": "08h00 ~ 12h00",
             "location": ["Lameira"],
             "quality": "Raro"
         },
         {
-            "id": 26,
+            "id": 24,
             "name": "Trout",
-            "page": 263,
+            "page": 301,
             "time": "08h00 ~ 12h00",
             "location": ["Tundra Congelada"],
             "quality": "Raro"
         },
         {
-            "id": 27,
+            "id": 25,
             "name": "Peixe Branco",
-            "page": 264,
+            "page": 302,
             "time": "Dia todo",
             "location": ["Qualquer lugar"],
             "quality": "Raro"
         },
         {
-            "id": 28,
+            "id": 26,
             "name": "Crogill",
-            "page": 265,
+            "page": 303,
             "time": "08h00 ~ 12h00",
             "location": ["Cemitério de Ashwold"],
             "quality": "Lendário"
         },
         {
-            "id": 29,
-            "name": "Eel",
-            "page": 266,
+            "id": 27,
+            "name": "Enguia",
+            "page": 304,
             "time": "Dia todo",
             "location": ["Tundra Congelada"],
             "quality": "Lendário"
         },
         {
-            "id": 30,
-            "name": "Kelpthie",
-            "page": 267,
+            "id": 28,
+            "name": "Algamar",
+            "page": 305,
             "time": "Dia todo",
             "location": ["Lameira", "Tundra Congelada"],
             "quality": "Lendário"
         },
         {
-            "id": 31,
+            "id": 29,
             "name": "Sheatfish",
-            "page": 268,
+            "page": 306,
             "time": "Dia todo",
             "location": ["Lameira"],
             "quality": "Lendário"
         },
         {
-            "id": 32,
+            "id": 30,
             "name": "Sturgeon",
-            "page": 269,
+            "page": 307,
             "time": "Dia todo",
             "location": ["Cemitério de Ashwold"],
             "quality": "Lendário"
         },
         {
-            "id": 33,
-            "name": "Tarpon",
-            "page": 270,
+            "id": 31,
+            "name": "Tarpão",
+            "page": 308,
             "time": "08h00 ~ 12h00",
             "location": ["Lameira"],
             "quality": "Lendário"
         },
         {
-            "id": 34,
+            "id": 32,
             "name": "Borebrunt",
-            "page": 271,
+            "page": 309,
             "time": "20h00 ~ 00h00",
             "location": ["Lameira"],
             "quality": "Mítico"
         },
         {
-            "id": 35,
+            "id": 33,
             "name": "Coral Sage",
-            "page": 272,
+            "page": 310,
             "time": "08h00 ~ 12h00",
             "location": ["Tundra Congelada"], 
             "quality": "Mítico"
         },
         {
-            "id": 36,
+            "id": 34,
             "name": "Gatefysc",
-            "page": 273,
+            "page": 311,
             "time": "Dia todo",
             "location": ["Lameira"], 
             "quality": "Mítico"
         },
         {
-            "id": 37,
+            "id": 35,
             "name": "Moonspine",
-            "page": 274,
+            "page": 312,
             "time": "20h00 ~ 00h00",
             "location": ["Cemitério de Ashwold"], 
             "quality": "Mítico"
         },
         {
-            "id": 38,
+            "id": 36,
             "name": "Nocbrodd",
-            "page": 275,
+            "page": 313,
             "time": "Dia todo",
             "location": ["Tundra Congelada"], 
             "quality": "Mítico"
         },
         {
-            "id": 39,
+            "id": 37,
             "name": "Ribwright",
-            "page": 276,
+            "page": 314,
             "time": "08h00 ~ 12h00",
             "location": ["Lameira"], 
             "quality": "Mítico"
         },
         {
-            "id": 40,
+            "id": 38,
             "name": "Swordfish",
-            "page": 277,
+            "page": 315,
             "time": "Dia todo",
             "location": ["Lameira"], 
             "quality": "Mítico"
         },
         {
-            "id": 41,
+            "id": 39,
             "name": "Tuna",
-            "page": 278,
+            "page": 316,
             "time": "Dia todo",
             "location": ["Cemitério de Ashwold"], 
             "quality": "Mítico"
