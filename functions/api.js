@@ -9,6 +9,7 @@ const dataSets = require('../src/mock/gear-sets.mock.json');
 const dataCorvus = require('../src/mock/corvus.mock.json');
 const dataVideos = require('../src/mock/videos.mock.json');
 const dataFish = require('../src/mock/fish.mock.json');
+const dataChampionship = require('../src/mock/championship.mock.json');
 
 const app = express();
 app.use(cors({origin: '*'}));
@@ -143,7 +144,7 @@ routes.get('/fish', (req,res) => {
 */
 routes.get('/championship', (req,res) => {
     try {
-        const competitors = data.championship;
+        const competitors = dataChampionship.championship;
         return res.send({ competitors });
     } catch (err) {
         return res.status(400).send({ error: 'Error to loading all competitors' });
