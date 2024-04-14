@@ -479,7 +479,40 @@
             "name": "Consequência Turbulenta",
             "dropRateByStars": 4.5,
             "starGroup": 5,
-            "effect": "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 12%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Fúria arrebatadora não pode ser ativada mais do que uma vez a cada 200 segundos."
+            "awekening": [{
+                "points": 20,
+                "description": "Dano de ataque primário aumentado em 3%"
+            },
+            {
+                "points": 40,
+                "description": "Dano de habilidade aumentados em 2%"
+            },
+            {
+                "points": 60,
+                "description": "Dano aumentado em 1% para cada membro em seu time."
+            },
+            {
+                "points": 160,
+                "description": "Dano aumentado a inimigos com vida cheia em 5%"
+            },
+            {
+                "points": 260,
+                "description": "Dano a inimigos com vida abaixo de 30% aumentado 4%"
+            }],
+            "effect": "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 12%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Fúria arrebatadora não pode ser ativada mais do que uma vez a cada 20 segundos.",
+            "gemRess": ["Grilhão da Dor", "Escárnio do Degolador", "Alcance Fatal", "Esperança Reprimida", "Recipiente Soturno"],
+            "effectByLevel":[
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 12%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Fúria arrebatadora não pode ser ativada mais do que uma vez a cada 20 segundos.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 18%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Fúria arrebatadora não pode ser ativada mais do que uma vez a cada 20 segundos.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 18%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 3%.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 24%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 3%.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 24%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 6%.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 30%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 6%.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 30%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 9%.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 36%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 9%.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 36%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 12%.",
+                "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 42%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 12%."
+            ]
         }
     ],
     "cost": {
