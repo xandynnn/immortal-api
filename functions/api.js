@@ -141,7 +141,7 @@ routes.get('/fish', (req,res) => {
 /*
     Busca todos os competidores
 */
-router.get('/championship', (req,res) => {
+routes.get('/championship', (req,res) => {
     try {
         const competitors = data.championship;
         return res.send({ competitors });
