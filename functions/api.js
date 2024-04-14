@@ -138,4 +138,16 @@ routes.get('/fish', (req,res) => {
     }
 });
 
+/*
+    Busca todos os competidores
+*/
+router.get('/championship', (req,res) => {
+    try {
+        const competitors = data.championship;
+        return res.send({ competitors });
+    } catch (err) {
+        return res.status(400).send({ error: 'Error to loading all competitors' });
+    }
+});
+
 module.exports.handler = serverless(app)

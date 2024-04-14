@@ -1,0 +1,228 @@
+{
+    "championship": [
+        {
+            "id": 1,
+            "name": "Jhon Snow",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 2,
+            "name": "Gerrard Buttler",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 3,
+            "name": "Alistair",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 4,
+            "name": "Tobias",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 5,
+            "name": "Castiel",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 6,
+            "name": "Sam",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 7,
+            "name": "Dean",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 8,
+            "name": "Phoenix",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 9,
+            "name": "Phoebe",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 10,
+            "name": "Sheldon",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 11,
+            "name": "Harry",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 12,
+            "name": "Gordon",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 13,
+            "name": "Allan",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 14,
+            "name": "Ferdinand",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 15,
+            "name": "PSVita",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 16,
+            "name": "Cruel",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 17,
+            "name": "Ultraman",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 18,
+            "name": "Jiraia",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 19,
+            "name": "Giban",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 20,
+            "name": "Cybercops",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 21,
+            "name": "Flashman",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 22,
+            "name": "Changeman",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 23,
+            "name": "Power Rangers",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 24,
+            "name": "Horrível",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 25,
+            "name": "Feio",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 26,
+            "name": "Horroroso",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 27,
+            "name": "Bonito",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 28,
+            "name": "Lindão",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 29,
+            "name": "Maomenos",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 30,
+            "name": "Frederico",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 31,
+            "name": "Xndnn",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        },
+        {
+            "id": 32,
+            "name": "Clã",
+            "level": 1,
+            "wins": 0,
+            "loss": 0
+        }
+    ]
+}
