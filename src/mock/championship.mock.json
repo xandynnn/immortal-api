@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Alistair",
             "charClass": "Arcanista",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "name": "Phoenix",
             "charClass": "Arcanista",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
@@ -68,7 +68,7 @@
             "id": 9,
             "name": "Phoebe",
             "charClass": "Monge",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
@@ -124,7 +124,7 @@
             "id": 16,
             "name": "Cruel",
             "charClass": "Caçador de Demônio",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
@@ -156,7 +156,7 @@
             "id": 20,
             "name": "Cybercops",
             "charClass": "Arcanista",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
@@ -188,7 +188,7 @@
             "id": 24,
             "name": "Horrível",
             "charClass": "Necromante",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
@@ -196,7 +196,7 @@
             "id": 25,
             "name": "Feio",
             "charClass": "Arcanista",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
@@ -244,7 +244,7 @@
             "id": 31,
             "name": "Xndnn",
             "charClass": "Necromante",
-            "level": 2,
+            "level": 3,
             "win": 0,
             "loss": 0
         },
