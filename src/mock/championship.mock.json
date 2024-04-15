@@ -3,225 +3,257 @@
         {
             "id": 1,
             "name": "Jhon Snow",
+            "charClass": "Necromante",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 2,
             "name": "Gerrard Buttler",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Bárbaro",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 3,
             "name": "Alistair",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Arcanista",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 4,
             "name": "Tobias",
+            "charClass": "Cavaleiro de Sangue",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 5,
             "name": "Castiel",
+            "charClass": "Cruzado",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 6,
             "name": "Sam",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Caçador de Demônio",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 7,
             "name": "Dean",
+            "charClass": "Cruzado",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 8,
             "name": "Phoenix",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Arcanista",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 9,
             "name": "Phoebe",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Monge",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 10,
             "name": "Sheldon",
+            "charClass": "Monge",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 11,
             "name": "Harry",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Bárbaro",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 12,
             "name": "Gordon",
+            "charClass": "Necromante",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 13,
             "name": "Allan",
+            "charClass": "Necromante",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 14,
             "name": "Ferdinand",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Cavaleiro de Sangue",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 15,
             "name": "PSVita",
+            "charClass": "Arcanista",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 16,
             "name": "Cruel",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Caçador de Demônio",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 17,
             "name": "Ultraman",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Bárbaro",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 18,
             "name": "Jiraia",
+            "charClass": "Monge",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 19,
             "name": "Giban",
+            "charClass": "Bárbaro",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 20,
             "name": "Cybercops",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Arcanista",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 21,
             "name": "Flashman",
+            "charClass": "Caçador de Demônio",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 22,
             "name": "Changeman",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Cruzado",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 23,
             "name": "Power Rangers",
+            "charClass": "Cavaleiro de Sangue",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 24,
             "name": "Horrível",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Necromante",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 25,
             "name": "Feio",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Arcanista",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 26,
             "name": "Horroroso",
+            "charClass": "Bárbaro",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 27,
             "name": "Bonito",
+            "charClass": "Monge",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 28,
             "name": "Lindão",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Necromante",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 29,
             "name": "Maomenos",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Cruzado",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 30,
             "name": "Frederico",
+            "charClass": "Caçador de Demônio",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 31,
             "name": "Xndnn",
-            "level": 1,
-            "wins": 0,
+            "charClass": "Necromante",
+            "level": 2,
+            "win": 0,
             "loss": 0
         },
         {
             "id": 32,
             "name": "Clã",
+            "charClass": "Cruzado",
             "level": 1,
-            "wins": 0,
+            "win": 0,
             "loss": 0
         }
     ]
