@@ -6,47 +6,47 @@
             "charClass": "Necromante",
             "level": 1,
             "win": 0,
-            "loss": 0
+            "loss": 3
         },
         {
             "id": 2,
             "name": "Gerrard Buttler",
             "charClass": "Bárbaro",
             "level": 2,
-            "win": 0,
+            "win": 3,
             "loss": 0
         },
         {
             "id": 3,
             "name": "Alistair",
             "charClass": "Arcanista",
-            "level": 3,
-            "win": 0,
-            "loss": 0
+            "level": 5,
+            "win": 13,
+            "loss": 2
         },
         {
             "id": 4,
             "name": "Tobias",
             "charClass": "Cavaleiro de Sangue",
             "level": 1,
-            "win": 0,
-            "loss": 0
+            "win": 1,
+            "loss": 2
         },
         {
             "id": 5,
             "name": "Castiel",
             "charClass": "Cruzado",
             "level": 1,
-            "win": 0,
-            "loss": 0
+            "win": 1,
+            "loss": 2
         },
         {
             "id": 6,
             "name": "Sam",
             "charClass": "Caçador de Demônio",
             "level": 2,
-            "win": 0,
-            "loss": 0
+            "win": 2,
+            "loss": 1
         },
         {
             "id": 7,
@@ -68,7 +68,7 @@
             "id": 9,
             "name": "Phoebe",
             "charClass": "Monge",
-            "level": 3,
+            "level": 4,
             "win": 0,
             "loss": 0
         },
@@ -156,7 +156,7 @@
             "id": 20,
             "name": "Cybercops",
             "charClass": "Arcanista",
-            "level": 3,
+            "level": 4,
             "win": 0,
             "loss": 0
         },
@@ -244,9 +244,9 @@
             "id": 31,
             "name": "Xndnn",
             "charClass": "Necromante",
-            "level": 3,
-            "win": 0,
-            "loss": 0
+            "level": 6,
+            "win": 17,
+            "loss": 1
         },
         {
             "id": 32,
