@@ -1,0 +1,196 @@
+{
+    "reforges": [
+        {
+            "id": 0,
+            "name": "Incêndio",
+            "bonus": "Ao derrotar um inimigo, você tem 2% de chance de evocar uma Hidra que cospe bolas de fogo.",
+            "reforges": [
+                {
+                    "effect": "Cura membros do grupo em % ao morrer",
+                    "min": "1%",
+                    "max": "2%"
+                },
+                {
+                    "effect": "Dano causado a inimigos com a vida abaixo de 30%",
+                    "min": "2%",
+                    "max": "4%"
+                },
+                {
+                    "effect": "Dano de acerto crítico aumentado em",
+                    "min": "1.5%",
+                    "max": "3%"
+                },
+                {
+                    "effect": "Dano de ataque primário aumentado em",
+                    "min": "2%",
+                    "max": "4%"
+                },
+                {
+                    "effect": "Todo dano de habilidade aumentado em",
+                    "min": "1%",
+                    "max": "2%"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Tremor",
+            "bonus": "Seus ataques primários tem 2% de chance de causar 27.405 de dano e atordoar inimigos próximos por 1.5 segundos.",
+            "reforges": [
+                {
+                    "effect": "Seus ataques primários tem % de chance de reduzir as velocidades de ataque e de movimento dos inimigos em 20% por 3 segundos",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Dano contínuo recebido reduzido em",
+                    "min": "3%",
+                    "max": "4%"
+                },
+                {
+                    "effect": "Resistência a atordoamento aumentada em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Resistência a repulsão aumentada em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Seus ataques primários reduzem a cura dos inimigos em",
+                    "min": "3%",
+                    "max": "6%"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Impacto",
+            "bonus": "Ao receber um ataque, você tem 2% de chance de imobilizar o agressor.",
+            "reforges": [
+                {
+                    "effect": "Chance de enganar a morte aumentada em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Dano recebido de jogadores reduzido em",
+                    "min": "0.5%",
+                    "max": "1%"
+                },
+                {
+                    "effect": "Dano recebido emquanto está sob efeito de perda de controle reduzido em",
+                    "min": "2%",
+                    "max": "4%"
+                },
+                {
+                    "effect": "Duração dos efeitos benéficos aumentada em",
+                    "min": "1.5%",
+                    "max": "3%"
+                },
+                {
+                    "effect": "Resistência a lentidão aumentada em",
+                    "min": "3%",
+                    "max": "6%"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Barreira",
+            "bonus": "Ao receber um ataque, você tem 2% de chance de receber um escudo de absorção por 6 segundos.",
+            "reforges": [
+                {
+                    "effect": "Chance de bloqueio aumentada em",
+                    "min": "1%",
+                    "max": "2%"
+                },
+                {
+                    "effect": "Dano causado a mortos vivos aumentado em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Dano recebido de inimigos próximos reduzidos em",
+                    "min": "1%",
+                    "max": "2%"
+                },
+                {
+                    "effect": "Resistência a temor aumentada em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Vida máxima aumentada em",
+                    "min": "0.5%",
+                    "max": "1%"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Vingança",
+            "bonus": "Seus ataques primários têm 2% de chance de aumentar todos o dano causado em 100% por 1 segundo.",
+            "reforges": [
+                {
+                    "effect": "Dano causado a demônios aumentado em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Dano causado a inimigos protegidos aumentado em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Dano causado a inimigos sob perda de controle aumentada em",
+                    "min": "2.5%",
+                    "max": "5%"
+                },
+                {
+                    "effect": "Dano causado a jogadores aumentado em",
+                    "min": "0.5%",
+                    "max": "1.5%"
+                },
+                {
+                    "effect": "Velocidade de ataque aumentada em",
+                    "min": "1%",
+                    "max": "2%"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Destruição",
+            "bonus": "Ao derrotar um inimigo, você tem 2% de chance de fazer o cadáver explodir, causando dano a todos os inimigos próximos.",
+            "reforges": [
+                {
+                    "effect": "Dano causado a inimigos elite aumentado em",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Dano causado pelas suas evocações aumentado",
+                    "min": "3%",
+                    "max": "6%"
+                },
+                {
+                    "effect": "Dano recebido pelas suas evocações reduzido em",
+                    "min": "2%",
+                    "max": "4%"
+                },
+                {
+                    "effect": "Recarga de poção de cura reduzida em",
+                    "min": "1%",
+                    "max": "2%"
+                },
+                {
+                    "effect": "Regeneração de vida aumentada em",
+                    "min": "1%",
+                    "max": "2%"
+                }
+            ]
+        }
+    ]
+}

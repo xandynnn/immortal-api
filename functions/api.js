@@ -10,6 +10,7 @@ const dataCorvus = require('../src/mock/corvus.mock.json');
 const dataVideos = require('../src/mock/videos.mock.json');
 const dataFish = require('../src/mock/fish.mock.json');
 const dataChampionship = require('../src/mock/championship.mock.json');
+const dataReforges = require('../src/mock/reforges.mock.json');
 
 const app = express();
 app.use(cors({origin: '*'}));
@@ -148,6 +149,18 @@ routes.get('/championship', (req,res) => {
         return res.send({ competitors });
     } catch (err) {
         return res.status(400).send({ error: 'Error to loading all competitors' });
+    }
+});
+
+/*
+    Busca todas as reforjas
+*/
+routes.get('/reforges', (req,res) => {
+    try {
+        const reforges = dataReforges.reforges;
+        return res.send({ reforges });
+    } catch (err) {
+        return res.status(400).send({ error: 'Error to loading reforges' });
     }
 });
 
