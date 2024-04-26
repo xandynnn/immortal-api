@@ -513,6 +513,14 @@
                 "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 36%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 12%.",
                 "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 42%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 12%."
             ]
+        },
+        {
+            "id": 57,
+            "slug": "honraria-de-muitos-reinos",
+            "name": "Honraria de Muitos Reinos",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Causar dano conjura 5 espadas voadoras que seguem você por 10 segundos. Durante esse período, usar uma habilidade consome uma espada voadora para criar uma chuva de Espadas em um local inimigo aleatório, causando 50% de dano básico + 506 a inimigos próximos. A conjuração de espadas voadoras não pode ocorrer mais do que uma vez a cada 20 segundos."
         }
     ],
     "cost": {
