@@ -22,7 +22,7 @@
         },
         {
             "id": 4,
-            "question": "Senhor da Destruição, que sempre está em guerra",
+            "question": "O senhor da Destruição, eternamente em guerra.",
             "answer": "Baal"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
             "id": 24,
-            "question": "Kehjan do Sul é coberta de",
+            "question": "O kehjan do Sul é coberto de:",
             "answer": "Selvas"
         },
         {
@@ -132,7 +132,7 @@
         },
         {
             "id": 26,
-            "question": "Há 27 ratos marrons, 18 pretos, 14 brancos...",
+            "question": "Há 27 ratos marrons, 18 ratos pretos e 14 ratos brancos. Quantos ratos um cego precisa matar para ter certeza de ter matado um rato branco?",
             "answer": "46"
         },
         {
@@ -184,6 +184,11 @@
             "id": 36,
             "question": "Vive, mas não respira. É frio como a morte. Não tem sede, mas sempre bebe.",
             "answer": "Peixe"
+        },
+        {
+            "id": 37,
+            "question": "Estou sempre a caminho, mas nunca chego. Quem sou eu?",
+            "answer": "Amanhã"
         }
     ]
 }
