@@ -55,7 +55,23 @@
             "name": "Olho do Berseker",
             "dropRateByStars": 75.395,
             "starGroup": 1,
-            "effect": "Aumenta todo o dano causado em 5.50%, mas também aumenta todo o dano recebido em 5%."
+            "effect": "Aumenta todo o dano causado em 5.50%, mas também aumenta todo o dano recebido em 5%.",
+            "gemRess": ["Suplício Eterno", "Riso Perverso"],
+            "awekening": [{
+                "points": 10,
+                "description": "Dano de ataque primário aumentado em 3%"
+            },
+            {
+                "points": 40,
+                "description": "Dano de habilidade aumentados em 2%"
+            }],
+            "effectAndValues": {
+                "effects": ["Aumenta todo o dano causado em VAR%, mas também aumenta todo o dano recebido em 5%.", "Aumenta todo o dano causado em VAR% e sua chance de crítico em VAR%, mas também aumenta todo o dano recebido em 5%."],
+                "type": "change",
+                "values": [
+                    [5.5,0],[6.5,0],[6.5,0.5],[8,0.5],[8,1],[10,1],[10,1.5],[13,1.5],[13,2],[16,2]
+                ]
+            }
         },
         {
             "id": 7,
@@ -512,7 +528,14 @@
                 "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 36%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 9%.",
                 "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 36%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 12%.",
                 "Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em 42%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo). Sua chance de crítico contra inimigos em chamas é aumentada em 12%."
-            ]
+            ],
+            "effectAndValues": {
+                "effects": ["Causar dano coloca você em fúria arrebatadora por 6 segundos, durante os quais sua chance de acerto crítico é aumentada em VAR%, e acertos críticos acarretam uma explosão de fogo que queima os inimigos próximos, causando 36% de dano básico durante 3 segundos (as explosões não podem ocorrer mais do que uma vez a cada 1 segundo).","Sua chance de crítico contra inimigos em chamas é aumentada em 3%."],
+                "type": "add",
+                "values": [
+                    [12,0],[18,0],[18,3],[24,3],[24,6],[30,6],[30,9],[36,9],[36,12],[42,12]
+                ]
+            }
         },
         {
             "id": 57,
@@ -521,6 +544,51 @@
             "dropRateByStars": 4.5,
             "starGroup": 5,
             "effect": "Causar dano conjura 5 espadas voadoras que seguem você por 10 segundos. Durante esse período, usar uma habilidade consome uma espada voadora para criar uma chuva de Espadas em um local inimigo aleatório, causando 50% de dano básico + 506 a inimigos próximos. A conjuração de espadas voadoras não pode ocorrer mais do que uma vez a cada 20 segundos."
+        },
+        {
+            "id": 58,
+            "slug": "sentinela-luminosa",
+            "name": "Sentinela Luminosa",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Reduz a duração dos efeitos de perda de controle em você em 8%.",
+            "effectAndValues": {
+                "effects": ["Reduz a duração dos efeitos de perda de controle em você em VAR%.", "Enquanto sofre perda de controle, o dano que você recebe é reduzido em VAR%"],
+                "type": "add",
+                "values": [
+                    [12,0],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "slug": "espimusgo",
+            "name": "Espimusgo",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Receber dano ativa Espimusgo por 6 segundos. Enquanto está ativo, cada ataque que você recebe aciona um espinho perfurante retaliatório (não mais de uma vez a cada 0,5 segundos), causando 17% de dano básico + 201 aos inimigos. Só pode ocorrer uma vez a cada 20 segundos.",
+            "effectAndValues": {
+                "effects": ["Receber dano ativa Espimusgo por 6 segundos. Enquanto está ativo, cada ataque que você recebe aciona um espinho perfurante retaliatório (não mais de uma vez a cada 0,5 segundos), causando VAR% de dano básico + 201 aos inimigos. Só pode ocorrer uma vez a cada 20 segundos.", "Enquanto Espimusgo está ativo, o dano recebido é reduzido em VAR%."],
+                "type": "add",
+                "values": [
+                    [17,2],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "slug": "cofre-tempestuoso",
+            "name": "Cofre Tempestuoso",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Causar dano conjura uma tempestada na posição atual do inimigo, que persegue inimigos por 6 segundos, causando 22.5 de dano básico contínuo + 203 a cada 0,5 segundos a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos.",
+            "effectAndValues": {
+                "effects": ["Causar dano conjura uma tempestada na posição atual do inimigo, que persegue inimigos por 6 segundos, causando VAR de dano básico contínuo + 203 a cada 0,5 segundos a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos.", "A tempestade também solta raios, causando VAR% de dano básico por seguundo."],
+                "type": "add",
+                "values": [
+                    [22.5,6],[],[],[],[],[],[],[],[],[]
+                ]
+            }
         }
     ],
     "cost": {

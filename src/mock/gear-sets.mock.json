@@ -487,5 +487,42 @@
         }
       ]
     }
+    ,
+    {
+      "name": "Prece de Findinverno",
+      "slug": "prece-de-findinverno",
+      "bonus": [
+        "Seu dano é aumentado em 15% ao atacar inimigos com gelidez e em 30% ao atacar inimigos congelados. Chefes imunes aos efeitos de gelidez e congelamentos serão marcados, ativando esses bônus.",
+        "Você tem 30% de chance de congelar inimigos que já estão com gelidez por 3 segundos ao aplicar gelidez adicional neles. Só é possível congelar o mesmo alvo uma vez a cada 10 segundos.",
+        "Atacar inimigos com gelidez concede a você Fôlego da Montanha por 12 segundos, fazendo com que seus ataques estilhacem inimigos com gelidez ou congelados. Inimigos com gelidez recebem 18.269 de dano e inimigos congelados recebem 33.494 de dano ao serem estilhaçados. Fôlego da Montanha só pode ser ativado uma vez a cada 40 segundos, e cada inimigo só pode ser estilhaçado uma vez a cada 0,5 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Poço da Angústia",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Templo de Namari",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Caverna do Eco",
+          "piece": "Anéis"
+        }
+      ]
+    }
   ]
 }
