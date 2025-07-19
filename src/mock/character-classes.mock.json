@@ -1,0 +1,40 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "name": "Arcanista"
+    },
+    {
+      "id": 1,
+      "name": "Bárbaro"
+    },
+    {
+      "id": 2,
+      "name": "Caçador de Demônios"
+    },
+    {
+      "id": 7,
+      "name": "Cavaleiro Sangrento"
+    },
+    {
+      "id": 5,
+      "name": "Cruzado"
+    },
+    {
+      "id": 3,
+      "name": "Druida"
+    },
+    {
+      "id": 4,
+      "name": "Monge"
+    },
+    {
+      "id": 6,
+      "name": "Necromante"
+    },
+    {
+      "id": 8,
+      "name": "Tempestário"
+    }
+  ]
+}

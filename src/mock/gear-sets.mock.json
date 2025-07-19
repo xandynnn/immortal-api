@@ -523,6 +523,83 @@
           "piece": "Anéis"
         }
       ]
+    },
+    {
+      "name": "Autoridade do Fogo",
+      "slug": "autoridade-do-fogo",
+      "bonus": [
+        "Sua Tempestade de Fogo agora se torna um Incêndio, aumentando o bônus de dano de 50% para 70%.",
+        "Incêndio também conjura um Tornado de Incêndio que arrasta inimigos próximos ao seu centro, causando 12.695 de dano a todos os inimigos na área. Só pode ocorrer uma vez a cada 9 segundos.",
+        "Incêndio também concede a você Abano das Chamas por 12 segundos, fazendo com que seus ataques que não são de queimadura causem dano de vento, permitindo que ativem incêndio. Abano das Chamas também reduz a recarga de Tornado de Incêndio em 3 segundos. Abano das Chamas só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Fenda do Rei Louco",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "Ceifador Pavoroso",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Catedral de Tristram",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Torre Esquecida",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Tumba de Fahir",
+          "piece": "Anéis"
+        },
+         {
+          "id": 6,
+          "dungeon": "Corredeira Kikuras",
+          "piece": "Anéis"
+        }
+      ]
+    },
+    {
+      "name": "Seta Quebracéu",
+      "slug": "seta-quebraceu",
+      "bonus": [
+        "Causar dano libera uma explosão elétrica no local dos inimigos, aplicando choque a todos os inimigos próximos e causando 9.389 de dano por segundo durante 3 segundos. Só pode ocorrer uma vez a cada 6 segundos.",
+        "Ao se aproximar de inimigos sob efeito de choque, você libera automaticamente uma sequência de raios causando 39.122 de dano. Pode ativar até 4 sequências de raivos de uma vez e só pode ocorrer uma vez a cada 6 segundos.",
+        "Explosões elétricas agora cercam você em um campo elétrico por 12 segundos que aplica choque aos inimigos, causando 9.389 de dano por segundo aos que permanecem dentro dele. Enquanto estiver potencializado, seus ataques também liberam uma sequência de raios que causa 39.122 de dano (só pode liberar uma sequência a cada 1 segundo). Campo elétrico só pode ocorrer uma vez a cada 40 segundos."
+      ],
+      "equips": [
+        {
+          "id": 1,
+          "dungeon": "Caverna do Eco",
+          "piece": "Luvas"
+        },
+        {
+          "id": 2,
+          "dungeon": "O Fim da Destruição",
+          "piece": "Botas"
+        },
+        {
+          "id": 3,
+          "dungeon": "Templo de Namari",
+          "piece": "Cinto"
+        },
+        {
+          "id": 4,
+          "dungeon": "Poço da Angústia",
+          "piece": "Pescoço"
+        },
+        {
+          "id": 5,
+          "dungeon": "Monastério Silencioso",
+          "piece": "Anéis"
+        }
+      ]
     }
   ]
 }

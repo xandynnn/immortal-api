@@ -1,0 +1,643 @@
+{
+  "magics": [
+    {
+      "id": 0,
+      "class": "Arcanista",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Armadura Gélida",
+          "description": "Aumenta a velocidade de movimento em 8%, acumulando até 4 vezes."
+        },
+        {
+          "id": 1,
+          "name": "Teleporte",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 2,
+          "name": "Torrente Arcana",
+          "description": "Conjura 1 seta Arcana para orbitar ao seu redor, causando 8.446 de dano."
+        },
+        {
+          "id": 3,
+          "name": "Vento Arcano",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 4,
+          "name": "Meteoro",
+          "description": "Aumenta o dano recebido pelo inimigo em 8% por 3 segundos."
+        },
+        {
+          "id": 5,
+          "name": "Desintegração",
+          "description": "Dispara 1 raio adicional, em um ângulo maior. Inimigos atingidos por vários raios só recebem dano de um."
+        },
+        {
+          "id": 6,
+          "name": "Cristal Gélido",
+          "description": "Reflete 1 raio adicional de ataques de raio."
+        },
+        {
+          "id": 7,
+          "name": "Nova Elétrica",
+          "description": "Aumenta sua velocidade de ataque em 8% por 3 segundos."
+        },
+        {
+          "id": 8,
+          "name": "Calcinar",
+          "description": "Ativa uma explosão quando atingido, causando 11.550 de dano a inimigos próximos (recarga: 3 segundos)."
+        },
+        {
+          "id": 9,
+          "name": "Campo Gélido",
+          "description": "Conjura um redemoinho gélido por 3 segundos, causando gelidez nos inimigos e 4.729 de dano por segundo."
+        },
+        {
+          "id": 10,
+          "name": "Raio Gélido",
+          "description": "Dispara 1 raio adicional, em um ângulo maior. Inimigos atingidos por vários raios só recebem dano de um."
+        },
+        {
+          "id": 11,
+          "name": "Buraco Negro",
+          "description": "Libera mísseis arcanos de seu centro, que atacam inimigos aleatórios, causando 6.564 de dano."
+        },
+        {
+          "id": 12,
+          "name": "Dilatação Temporal",
+          "description": "Os efeitos permanecem em quaisquer inimigos por 1.5 segundos depois que deixarem a área afetada."
+        }
+      ]
+    },
+		{
+      "id": 1,
+      "class": "Bárbaro",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Redemoinho",
+          "description": "Alcance aumentado em 12%."
+        },
+        {
+          "id": 1,
+          "name": "Raiva Eterna",
+          "description": "Reduz a duração dos efeitos nocivos em 10%."
+        },
+        {
+          "id": 2,
+          "name": "Disparada",
+          "description": "Concede a você uma chance de 12.5% de se tornar imune a efeitos de repulsão, gelidez e lentidão."
+        },
+        {
+          "id": 3,
+          "name": "Fúria do Berserker",
+          "description": "Tem 20% de chance de ativar uma explosão a cada 0,5 segundos, causando 15.817 de dano a todos os inimigos próximos."
+        },
+        {
+          "id": 4,
+          "name": "Salto",
+          "description": "Reduz seu dano recebido reduzido em 12% por 3 segundos."
+        },
+        {
+          "id": 5,
+          "name": "Martelo dos Ancestrais",
+          "description": "Causa 40% de dano de acerto crítico aumentado contra inimigos atordoados."
+        },
+        {
+          "id": 6,
+          "name": "Investida Furiosa",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 7,
+          "name": "Cutilada",
+          "description": "Recarga reduzida em 0,1 segundos sempre que seu ataque primário atingir um inimigo."
+        },
+        {
+          "id": 8,
+          "name": "Lança Acorrentada",
+          "description": "Causa 15% de lentidão aos inimigos por 6 segundos."
+        },
+        {
+          "id": 9,
+          "name": "Desmoralizar",
+          "description": "Reduz a velocidade de movimento dos inimigos próximos em 20% por 3 segundos."
+        },
+        {
+          "id": 10,
+          "name": "Pisada Poderosa",
+          "description": "Potencializa seus passos por 3 segundos, causando uma erupção no chão a cada 2 metros de movimento, que causa 5.911 de dano a inimigos próximos."
+        },
+        {
+          "id": 11,
+          "name": "Agarrar",
+          "description": "Recebe um escudo por 3 segundos que absorve 15.844 de dano e deixa você imune à repulsão enquanto estiver ativo."
+        },
+        {
+          "id": 12,
+          "name": "Cisão",
+          "description": "Gera uma onda de choque adicional em sua ativação, causando 23.101 de dano a inimigos próximos."
+        }
+      ]
+    },
+		{
+      "id": 2,
+      "class": "Monge",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Onda de Luz",
+          "description": "Causa 30% de dano de acerto crítico aumentado quando você estiver em um raio de 3 metros do alvo."
+        },
+        {
+          "id": 1,
+          "name": "Aliado Místico",
+          "description": "Tem 15% de chance de ressurgir quando expira."
+        },
+        {
+          "id": 2,
+          "name": "Ofensiva das Sete Estrelas",
+          "description": "Tem 15% de chance de golpear novamente."
+        },
+        {
+          "id": 3,
+          "name": "Golpe Místico",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 4,
+          "name": "Escudo Zen",
+          "description": "Escudo de absorção aumentado em 10%."
+        },
+        {
+          "id": 5,
+          "name": "Voadora",
+          "description": "Recarga reduzida em 0.1 segundo sempre que seu ataque primário atingir um inimigo."
+        },
+        {
+          "id": 6,
+          "name": "Paz Interior",
+          "description": "Aumenta a taxa de evazão em 5%."
+        },
+        {
+          "id": 7,
+          "name": "Palma explosiva",
+          "description": "Tem 10% de chance de explodir ao causar dano a um inimigo sob o efeito de sangramento."
+        },
+        {
+          "id": 8,
+          "name": "Golpe Ciclone",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 9,
+          "name": "Onda Ofensiva",
+          "description": "Libera uma onda de energia ao seu redor, causando 13.175 de dano a inimigos próximos (recarga: 0,5 segundo)."
+        },
+        {
+          "id": 10,
+          "name": "Dragão Voador",
+          "description": "Dispara duas setas dracônicas que atacam inimigos automaticamente, causando 21.256 de dano."
+        },
+        {
+          "id": 11,
+          "name": "Punhos Aprisionados",
+          "description": "Ataques a inimigos com perda de controle serão detonados, causando 23.409 de dano adicional (recarga: 0,5 segundos)."
+        },
+        {
+          "id": 12,
+          "name": "Sopro Divino",
+          "description": "Aumenta sua velocidade de ataque, e a de aliados próximos, em 8% por 3 segundos."
+        }
+      ]
+    },
+		{
+      "id": 3,
+      "class": "Caçador de Demônios",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Impulso Audacioso",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 1,
+          "name": "Disparo de Repulsão",
+          "description": "Causa 3% de dano aumentado para cada metro entre você e o alvo, até o máximo de 18%."
+        },
+        {
+          "id": 2,
+          "name": "Tiro Múltiplo",
+          "description": "Recarga reduzida em 0,1 segundos sempre que seu ataque primário atingir um inimigo."
+        },
+        {
+          "id": 3,
+          "name": "Empalar",
+          "description": "Arremessa 1 lâmina adicional, aumentando seu raio."
+        },
+        {
+          "id": 4,
+          "name": "Saraivada",
+          "description": "Tem 15% de chance de disparar uma seta adicional, causando 9.666 de dano."
+        },
+        {
+          "id": 5,
+          "name": "Chuva de Vingança",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 6,
+          "name": "Chakram Giratório",
+          "description": "Gira 1 lâmina ao seu redor por 5 segundos, causando 8.942 de dano."
+        },
+        {
+          "id": 7,
+          "name": "Sentinela",
+          "description": "Tem 15% de chance de disparar uma seta adicional, causando 18.991 de dano."
+        },
+        {
+          "id": 8,
+          "name": "Visão Sombria",
+          "description": "Aumenta sua velocidade de ataque, e a de aliados próximos, em 8% por 3 segundos."
+        },
+        {
+          "id": 9,
+          "name": "Armadilha de Facas",
+          "description": "Reduz as velocidades de movimento e de ataque de inimigos atingidos em 24% por 3 segundos."
+        },
+        {
+          "id": 10,
+          "name": "Cortina de Fumaça",
+          "description": "Reduz muito a visão do inimigo por 1 segundo."
+        },
+        {
+          "id": 11,
+          "name": "Escapar",
+          "description": "Recebe um escudo que absorve 13.399 de dano."
+        },
+        {
+          "id": 12,
+          "name": "Vingança",
+          "description": "Aplica uma marca a inimigos por 3 segundos, que explode a cada 3 ataques de Vingança, causando 9.490 de dano, ativando-se no máximo uma vez a cada 0,5 segundo."
+        }
+      ]
+    },
+		{
+      "id": 4,
+      "class": "Cruzado",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Arrastar e Esquartejar",
+          "description": "Concede 10% de chance de explodir toda vez que você se deslocar 2 metros, causando 12.279 de dano."
+        },
+        {
+          "id": 1,
+          "name": "Espada Cadente",
+          "description": "Conjura 1 espada que te segue, causando 23.250 de dano. Recarga de 3 segundos."
+        },
+        {
+          "id": 2,
+          "name": "Consagração",
+          "description": "Reduz o dano causado por inimigos em 5%."
+        },
+        {
+          "id": 3,
+          "name": "Estandarte Sagrado",
+          "description": "Aumenta a velocidade de ataque em 5%."
+        },
+        {
+          "id": 4,
+          "name": "Condenar",
+          "description": "Causa 25% a mais de dano de acerto crítico a inimigos com menos de 30% de vida."
+        },
+        {
+          "id": 5,
+          "name": "Investida com Escudo",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 6,
+          "name": "Escudo Giratório",
+          "description": "Recarga reduzida em 0,1 segundos sempre que seu ataque primário atingir um inimigo."
+        },
+        {
+          "id": 7,
+          "name": "Conjuração da Luz",
+          "description": "Aumenta sua velocidade de movimento em 8%."
+        },
+        {
+          "id": 8,
+          "name": "Ataque Amplo",
+          "description": "Atingir um inimigo conjura um mangual giratório em seu local, causando 13.168 de dano a todos os inimigos próximos (recarga: 3 segundos)."
+        },
+        {
+          "id": 9,
+          "name": "Escudo Reluzente",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 10,
+          "name": "Corrente Sagrada",
+          "description": "Aplica uma marca a inimigos por 3 segundos, que explode a cada 3 ataques recebidos, causando 4.0067 de dano, ativando-se no máximo uma vez a cada 0,5 segundo."
+        },
+        {
+          "id": 11,
+          "name": "Punho do Paraíso",
+          "description": "Conjura uma seta que orbitam à sua volta por 3 segundos, causando 9.823 de dano."
+        },
+        {
+          "id": 12,
+          "name": "Julgamento",
+          "description": "Ataques a inimigos sofrendo efeitos negativos os acorrentam ao local selecionado por 1 segundo, atordoando-os por 3 segundos quando as correntes forem quebradas."
+        }
+      ]
+    },
+		{
+      "id": 5,
+      "class": "Necromante",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Comandar Golem",
+          "description": "Tamanho aumentado em 10%, expandindo o alcance do seu ataque em 10%."
+        },
+        {
+          "id": 1,
+          "name": "Comandar Esqueletos",
+          "description": "Tem 10% de chance de evocar esqueletos adicionais, além de aumentar quantos você pode controlar."
+        },
+        {
+          "id": 2,
+          "name": "Lança Cadavérica",
+          "description": "Aumenta a sua velocidade de movimento em 10% por 3 segundos."
+        },
+        {
+          "id": 3,
+          "name": "Parede Óssea",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 4,
+          "name": "Espírito de Ossos",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 5,
+          "name": "Espetos de Ossos",
+          "description": "Causa 15% de lentidão aos inimigos por 6 segundos."
+        },
+        {
+          "id": 6,
+          "name": "Mago Esqueleto",
+          "description": "Lança um escudo de Maldição Sombria que absorve 85.735 de dano."
+        },
+        {
+          "id": 7,
+          "name": "Forma Espectral",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 8,
+          "name": "Foice Nefasta",
+          "description": "Causa 15% de lentidão aos inimigos por 6 segundos."
+        },
+        {
+          "id": 9,
+          "name": "Contra o Tempo",
+          "description": "Concede surto de essência, reduzindo o dano que você sofre em 40% por 1 segundo."
+        },
+        {
+          "id": 10,
+          "name": "Explodir Cadáver",
+          "description": "Há uma chance de 10% de que um cadáver não seja consumido."
+        },
+        {
+          "id": 11,
+          "name": "Armadura Óssea",
+          "description": "Enquanto estiver ativo, 10% do dano que você recebe é distribuído para todas as evocações próximas."
+        },
+        {
+          "id": 12,
+          "name": "Maldição Sombria",
+          "description": "Cada ataque ao inimigo conjura um pequeno espírito de osso que ataca um inimigo aleatório, causando 17.025 de dano (máximo de 9 espíritos)."
+        }
+      ]
+    },
+		{
+      "id": 6,
+      "class": "Cavaleiro Sangrento",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Dessangrar",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 1,
+          "name": "Abominação",
+          "description": "Reduz a duração de efeitos nocivos em 20%."
+        },
+        {
+          "id": 2,
+          "name": "Sifão de Sangue",
+          "description": "Aumenta sua velocidade de movimento em 8%."
+        },
+        {
+          "id": 3,
+          "name": "Lança Sombria",
+          "description": "Recarga reduzida em 0,1 segundos sempre que seu ataque primário atingir um inimigo."
+        },
+        {
+          "id": 4,
+          "name": "Nuvem de Morcegos",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 5,
+          "name": "Mortalha da Noite",
+          "description": "Aumenta a velocidade de ataque em 8%."
+        },
+        {
+          "id": 6,
+          "name": "Transpassar",
+          "description": "Aumenta a chance de inimigos receberem dano de acerto crítico em 8% por 3 segundos."
+        },
+        {
+          "id": 7,
+          "name": "Ataque Giratório",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 8,
+          "name": "Turbilhão de Lanças",
+          "description": "Aumenta sua velocidade de movimento em 10% por 3 segundos."
+        },
+        {
+          "id": 9,
+          "name": "Onda de Sangue",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 10,
+          "name": "Gavinhas de Sangue",
+          "description": "Reduz a velocidade de ataque de inimigos atingidos em 8% e aumenta sua velocidade de ataque em 2%, até o máximo de 8%."
+        },
+        {
+          "id": 11,
+          "name": "Nuvem Mefítica",
+          "description": "A velocidade de movimento de inimigos dentro da área afetada é reduzida em 12%."
+        },
+        {
+          "id": 12,
+          "name": "Transfusão",
+          "description": "Concede imunidade à repulsão 1 vez por 3 segundos."
+        }
+      ]
+    },
+		{
+      "id": 7,
+      "class": "Tempestário",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Acerto Fluido",
+          "description": "Concede um escudo que absorve 35.282 de dano por 4 segundos."
+        },
+        {
+          "id": 1,
+          "name": "Vórtice",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 2,
+          "name": "Surfe Rotatório",
+          "description": "Faz com que seus ataques primários disparem lâminas aquáticas nos inimigos, causando 3.940 de dano."
+        },
+        {
+          "id": 3,
+          "name": "Cascata",
+          "description": "Alcance aumentado em 12%."
+        },
+        {
+          "id": 4,
+          "name": "Caminhada Tremulante",
+          "description": "Restaura 2% da sua vida máxima a cada 0,45 segundos, até o máximo de 6 vezes."
+        },
+        {
+          "id": 5,
+          "name": "Fúria Tempestuosa",
+          "description": "Aumenta sua velocidade de ataque primário em 15% por 3 segundos."
+        },
+        {
+          "id": 6,
+          "name": "Dança das Lâminas",
+          "description": "Aumenta a chance de acerto crítico recebido contra inimigos atingidos em 8% por 3 segundos."
+        },
+        {
+          "id": 7,
+          "name": "Surto Zéfiro",
+          "description": "Causa 12% de dano de acerto crítico aumentado para cada Zéfiro consumido."
+        },
+        {
+          "id": 8,
+          "name": "Arrebentação",
+          "description": "Há 10% de chance de conjurar um Zéfiro adicional."
+        },
+        {
+          "id": 9,
+          "name": "Ventos Cruzados",
+          "description": "Conjura 1 lâmina de vento que segue você, causando 5750 de dano."
+        },
+        {
+          "id": 10,
+          "name": "Borrasca",
+          "description": "Recarga reduzida em 0,02 segundos para cada metro atravessado."
+        },
+        {
+          "id": 11,
+          "name": "Maremoto",
+          "description": "Inimigos atingidos por você e por seu Zéfiro ao mesmo tempo recebem dano aumentado em 6% por 3 segundos."
+        },
+        {
+          "id": 12,
+          "name": "Rasgamaré",
+          "description": "Alcance aumentado em 8%."
+        }
+      ]
+    },
+		{
+      "id": 8,
+      "class": "Druida",
+      "attributes": [
+        {
+          "id": 0,
+          "name": "Lobisomem",
+          "description": "Na forma de Lobisomem, atacar um inimigo com vida abaixo de 50% aplicará medo a eles por 0,8 segundos. Só pode ocorrer uma vez a cada 12 segundos."
+        },
+        {
+          "id": 1,
+          "name": "Urso",
+          "description": "Na forma de Urso, concede um escudo quando você perde 25% de sua vida máxima. O escudo dura por 5 segundos e absorve 37.557 de dano."
+        },
+        {
+          "id": 2,
+          "name": "Tornado de Fogo",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 3,
+          "name": "Terremoto",
+          "description": "Alcance aumentado em 8%."
+        },
+        {
+          "id": 4,
+          "name": "Armadura de Espinhos",
+          "description": "Ao receber um escudo, se cura em 8% do valor de absorção dele."
+        },
+        {
+          "id": 5,
+          "name": "Pedra Impetuosa",
+          "description": "Consumo de Energia Primitiva reduzido em 10%."
+        },
+        {
+          "id": 6,
+          "name": "Investida do Cervo",
+          "description": "Reduz o dano recebido em 15% em estado transformado."
+        },
+        {
+          "id": 7,
+          "name": "Enxame de Corvos",
+          "description": "Gera 3 de Energia Primitiva adicional."
+        },
+        {
+          "id": 8,
+          "name": "Círculo da Vida",
+          "description": "A cura em alvos com menos de 50% de vida é aumentada em 20%."
+        },
+        {
+          "id": 9,
+          "name": "Potência Raivosa",
+          "description": "Dano é aumentado em 9%."
+        },
+        {
+          "id": 10,
+          "name": "Evocar Lobos",
+          "description": "Ataques primários têm 15% de chance de aumentar a velocidade de ataque da sua evocação de lobo em 15% por 6 segundos."
+        },
+        {
+          "id": 11,
+          "name": "Evocar Urso-cinzento",
+          "description": "Duração é aumentada em 15%."
+        },
+        {
+          "id": 12,
+          "name": "Evocar Sábio da Floresta",
+          "description": "Cura 0,6% da sua vida máxima por segundo para cada Sábio da Floresta ativo."
+        }
+      ]
+    }
+  ]
+}
