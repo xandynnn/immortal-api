@@ -589,6 +589,231 @@
                     [22.5,6],[],[],[],[],[],[],[],[],[]
                 ]
             }
+        },
+        {
+            "id": 61,
+            "slug": "poco-entropico",
+            "name": "Poço Entrópico",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Dano de habilidade aumentado em 6%.",
+            "effectAndValues": {
+                "effects": ["Dano de habilidade aumentado em VAR%.", "Velocidade de ataque de habilidade aumentada em VAR%."],
+                "type": "add",
+                "values": [
+                    [6,1],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "slug": "portador-do-estrago",
+            "name": "Portador do Estrago",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Usar uma habilidade de investida aumenta o seu dano em 6% por 2 segundos. Só pode ocorrer uma vez a cada 6 segundos.",
+            "effectAndValues": {
+                "effects": ["Usar uma habilidade de investida aumenta o seu dano em VAR% por 2 segundos. Só pode ocorrer uma vez a cada 6 segundos.", "Aumenta a velocidade de ataque em VAR%."],
+                "type": "add",
+                "values": [
+                    [6,1],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 63,
+            "slug": "garra-vacilante",
+            "name": "Garra Vacilante",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Acertos críticos debilitam os inimigos, impedindo que usem habilidades de investida por 1.2 segundos. Só pode ocorrer uma vez a cada 20 segundos no mesmo alvo.",
+            "effectAndValues": {
+                "effects": ["Acertos críticos debilitam os inimigos, impedindo que usem habilidades de investida por VAR segundos. Só pode ocorrer uma vez a cada 20 segundos no mesmo alvo.", "Inimigos debilitados também tem sua velocidade de movimento reduzida em VAR%."],
+                "type": "add",
+                "values": [
+                    [1.2,6],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "slug": "mar-de-avanco",
+            "name": "Mar de Avanço",
+            "dropRateByStars": 75.395,
+            "starGroup": 1,
+            "effect": "Usar uma habilidade aumenta seu dano de habilidade em 0.80% por 3 segundos, acumulando até 10 vezes.",
+            "effectAndValues": {
+                "effects": ["Usar uma habilidade aumenta seu dano de habilidade em VAR% por 3 segundos, acumulando até 10 vezes.", "Recarga de habilidade reduzida em VAR%."],
+                "type": "add",
+                "values": [
+                    [0.8,0.5],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "slug": "confidente-frio",
+            "name": "Confidente Frio",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Causar dano evoca um pilar de gelo no local do inimigo com vida igual a 300% de sua vida máxima. Aplica gelidez a inimigos próximos do pilar e eles recebem 15% de dano básico + 344 a cada seguundo. O Pilar persiste por 6 segundos ou até ser destruído. Só pode ocorrer uma vez a cada 20 seguundos.",
+            "effectAndValues": {
+                "effects": ["Causar dano evoca um pilar de gelo no local do inimigo com vida igual a 300% de sua vida máxima. Aplica gelidez a inimigos próximos do pilar e eles recebem VAR% de dano básico + 344 a cada seguundo. O Pilar persiste por 6 segundos ou até ser destruído. Só pode ocorrer uma vez a cada 20 seguundos.", "Vida do pilar de gelo aumentada para VAR% da sua vida máxima."],
+                "type": "add",
+                "values": [
+                    [15,350],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "slug": "cranio-lamuriante",
+            "name": "Crânio Lamuriante",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Causar dano invoca o espírito de Lich Rei de dentro do Crânio Lamuriante e drena a alma dos inimigos próximos, conferindo-lhe Domínio Real por 6 segundos, aumentando em 7% todo o dano que você causar, até o máximo de 14%, se ao menos 3 inimigos forem drenados. Só pode ocorrer uma vez a cada 20 seguundos.",
+            "effectAndValues": {
+                "effects": ["Causar dano invoca o espírito de Lich Rei de dentro do Crânio Lamuriante e drena a alma dos inimigos próximos, conferindo-lhe Domínio Real por 6 segundos, aumentando em 7% todo o dano que você causar, até o máximo de VAR%, se ao menos 3 inimigos forem drenados. Só pode ocorrer uma vez a cada 20 seguundos.", "Enquanto o Domínio Real estiver ativo, seus ataques também liberam 2 Espíritos Torpes em inimigos próximos a cada segundo que explodem no contato, causando VAR% de dano básico a todos os inimigos perto do seu alvo."],
+                "type": "add",
+                "values": [
+                    [14,3],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "slug": "colheita-da-misericordia",
+            "name": "Colheita da Misericórdia",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Causar dano a inimigos com a vida abaixo de 30% conjura um ceifador com uma foice para golpear inimigos próximos, causando 50% de dano básico + 547 a inimigos na área. Só pode ocorrer uma vez a cada 6 segundos.",
+            "effectAndValues": {
+                "effects": ["Causar dano a inimigos com a vida abaixo de 30% conjura um ceifador com uma foice para golpear inimigos próximos, causando VAR% de dano básico + 547 a inimigos na área. Só pode ocorrer uma vez a cada 6 segundos.", "Ataques de Ceifador também aumentam seu dano causado em VAR% por 30 segundos."],
+                "type": "add",
+                "values": [
+                    [50,0.5],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "slug": "vidro-espectral",
+            "name": "Vidro Espectral",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Acertos críticos fragmentam a armadura dos inimigos por 2 segundos, aumentando o dano que eles recebem de você em 10%. Só pode ocorrer uma vez a cada 6 segundos no mesmo alvo.",
+            "effectAndValues": {
+                "effects": ["Acertos críticos fragmentam a armadura dos inimigos por 2 segundos, aumentando o dano que eles recebem de você em VAR%. Só pode ocorrer uma vez a cada 6 segundos no mesmo alvo.", "Fragmentar armadura de Vidro Espectral também aumenta sua chance de acerto crítico contra o inimigo em VAR%."],
+                "type": "add",
+                "values": [
+                    [10,1],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "slug": "behelit-carmesim",
+            "name": "Behelit Carmesim",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Seu Behelit se ativa para responder ao seu desejo avassalador, concedendo a você o Poder do Behelit que você tanto busca. Enquanto estiver com vida acima de 50%, causar dano concede Fúria do Behelit, aumentando seu dano causado em 10% por 6 segundos. Quando estiver com vida abaixo de 50%. você ganha Misericórdia do Behelit, reduzindo o dano que você recebe em 10% por 6 segundos. Cada Poder do Behelit tem uma recarga própria. Fúria do Behelit tem uma recarga de 20 segundos e Misericórdia do Behelit tem uma recarga de 60 segundos.",
+            "effectAndValues": {
+                "effects": ["Seu Behelit se ativa para responder ao seu desejo avassalador, concedendo a você o Poder do Behelit que você tanto busca. Enquanto estiver com vida acima de 50%, causar dano concede Fúria do Behelit, aumentando seu dano causado em VAR% por 6 segundos. Quando estiver com vida abaixo de 50%. você ganha Misericórdia do Behelit, reduzindo o dano que você recebe em VAR% por 6 segundos. Cada Poder do Behelit tem uma recarga própria. Fúria do Behelit tem uma recarga de 20 segundos e Misericórdia do Behelit tem uma recarga de 60 segundos.","Quando um Poder do Behelit se ativa, ele libera um grito de terror que amedronta os inimigos próximos por VAR seguundos."],
+                "type": "add",
+                "values": [
+                    [10,10,0.4],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "slug": "oraculo-teimoso",
+            "name": "Oráculo Teimoso",
+            "dropRateByStars": 20.105,
+            "starGroup": 2,
+            "effect": "Quando você recebe ataques, uma Égide Divina se forma diante de você por 6 segundos, aumentando sua chance de bloqueio contra inimigos à sua frente, em 18%. Só pode ocorrer uma vez a cada 20 segundos.",
+            "effectAndValues": {
+                "effects": ["Quando você recebe ataques, uma Égide Divina se forma diante de você por 6 segundos, aumentando sua chance de bloqueio contra inimigos à sua frente, em VAR%. Só pode ocorrer uma vez a cada 20 segundos.", "Égide Divina também reduz a duração dos efeitos de perda de controle em você em VAR%."],
+                "type": "add",
+                "values": [
+                    [18,9],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "slug": "cofre-tempestuoso",
+            "name": "Cofre Tempestuoso",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Causar dano conjura uma tempestade na posição atual do inimigo, que persegue inimigos por 6 segundos, causando 22.5% de dano básico contínuo + 203 a cada 0.5 segundos a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos.",
+            "effectAndValues": {
+                "effects": ["Causar dano conjura uma tempestade na posição atual do inimigo, que persegue inimigos por 6 segundos, causando VAR% de dano básico contínuo + 203 a cada 0.5 segundos a todos os inimigos próximos. Só pode ocorrer uma vez a cada 20 segundos.","A tempestade também solta raios, causando VAR% de dano básico por segundo."],
+                "type": "add",
+                "values": [
+                    [22.5,6],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "slug": "luposcor",
+            "name": "Luposcor",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Causar dano concede Coração Selvagem por 6 segundos, fazendo com que seus ataques marquem os inimigos. Com 5 aplicações, as marcas são consumidas e rasgam o coração do inimigo, causando 40% do dano básico + 385 ao inimigo. As marcas podem ser aplicadas e acumuladas novamente no mesmo inimigo 0.3 segundo após serem consumidas. Coração Selvagem só pode ser ativado uma vez a cada 20 segundos.",
+            "effectAndValues": {
+                "effects": ["Causar dano concede Coração Selvagem por 6 segundos, fazendo com que seus ataques marquem os inimigos. Com 5 aplicações, as marcas são consumidas e rasgam o coração do inimigo, causando VAR% do dano básico + 385 ao inimigo. As marcas podem ser aplicadas e acumuladas novamente no mesmo inimigo 0.3 segundo após serem consumidas. Coração Selvagem só pode ser ativado uma vez a cada 20 segundos.","Coração Selvagem também faz você uivar, concedendo VAR% de velocidade de ataque aumentada para você e aliados próximos durante 3 segundos."],
+                "type": "add",
+                "values": [
+                    [40,3.5],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "slug": "firmamento-dourado",
+            "name": "Firmamento Dourado",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Causar dano te concede Ascendência por 6 segundos, fazendo com que você libere 3 rajadas de vento contra inimigos próximos aleatórios a cada segundo, causando 45% de dano básico + 486 nos inimigos atingidos. Inimigos atingidos pro várias rajadas recebem 75% a menos de dano dos acertos subsequentes. Só pode ocorrer uma vez a cada 20 segundos.",
+            "effectAndValues": {
+                "effects": ["Causar dano te concede Ascendência por 6 segundos, fazendo com que você libere 3 rajadas de vento contra inimigos próximos aleatórios a cada segundo, causando VAR% de dano básico + 486 nos inimigos atingidos. Inimigos atingidos pro várias rajadas recebem 75% a menos de dano dos acertos subsequentes. Só pode ocorrer uma vez a cada 20 segundos.","Ascendência também aumenta sua taxa de evasão em VAR%."],
+                "type": "add",
+                "values": [
+                    [45,3],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "slug": "mecanismo-do-colosso",
+            "name": "Mecanismo do Colosso",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Conceder um bônus a si mesmo também garante Força Colossal por 6 segundos, aumentando seu dano de habilidade em 15%, além de aumentar o tamanho e o alcance da habilidade. Força Colossal só pode ocorrer uma vez a cada 20 segundos.",
+            "effectAndValues": {
+                "effects": ["Conceder um bônus a si mesmo também garante Força Colossal por 6 segundos, aumentando seu dano de habilidade em VAR%, além de aumentar o tamanho e o alcance da habilidade. Força Colossal só pode ocorrer uma vez a cada 20 segundos.","Força Colossal também concede imunidade a efeitos de repulsão por VAR segundos."],
+                "type": "add",
+                "values": [
+                    [15,1.2],[],[],[],[],[],[],[],[],[]
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "slug": "flor-sangrenta",
+            "name": "Flor Sangrenta",
+            "dropRateByStars": 4.5,
+            "starGroup": 5,
+            "effect": "Seus acertos críticos fazem você entrar em uma Raiva Sangrenta por 6 segundos, aumentando seu dano causado em 9% e seuu dano de acerto crítico em 18%. Enquanto Raiva Sangrenta estiver ativa, seus acertos críticos também acionam Retalha-carne, causando sangramento nos inimigos por mais 10% de dano básico por segundo durante 3 segundos. Raiva Sangrenta só pode ocorrer uma vez a cada 20 segundos e Retalha-carne só pode ocorrer uma vez a cada 1 segundo no mesmo inimigo.",
+            "effectAndValues": {
+                "effects": ["Seus acertos críticos fazem você entrar em uma Raiva Sangrenta por 6 segundos, aumentando seu dano causado em VAR% e seu dano de acerto crítico em VAR%. Enquanto Raiva Sangrenta estiver ativa, seus acertos críticos também acionam Retalha-carne, causando sangramento nos inimigos por mais 10% de dano básico por segundo durante 3 segundos. Raiva Sangrenta só pode ocorrer uma vez a cada 20 segundos e Retalha-carne só pode ocorrer uma vez a cada 1 segundo no mesmo inimigo.","Você recebe mais VAR% de chance de acerto crítico para cada sangramento em inimigos próximos, até o máximo de VAR%."],
+                "type": "add",
+                "values": [
+                    [9,18,1,4],[],[],[],[],[],[],[],[],[]
+                ]
+            }
         }
     ],
     "cost": {
