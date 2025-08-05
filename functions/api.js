@@ -11,6 +11,7 @@ const dataVideos = require('../src/mock/videos.mock.json');
 const dataFish = require('../src/mock/fish.mock.json');
 const dataChampionship = require('../src/mock/championship.mock.json');
 const dataReforges = require('../src/mock/reforges.mock.json');
+const dataMagics = require('../src/mock/magic-attributes.mock.json');
 
 const app = express();
 app.use(cors({origin: '*'}));
@@ -161,6 +162,35 @@ routes.get('/reforges', (req,res) => {
         return res.send({ reforges });
     } catch (err) {
         return res.status(400).send({ error: 'Error to loading reforges' });
+    }
+});
+
+/*
+    Busca todas as magias eternas
+*/
+routes.get('/eternal-magics', (req,res) => {
+    try {
+        const magics = data.magics;
+        return res.send({ magics });
+    } catch (err) {
+        return res.status(400).send({ error: 'Error to loading all magics' });
+    }
+});
+
+/*
+    Busca de Magia Eterna por id
+*/
+routes.get('/eternal-magics/:id', (req,res) => {
+    const id = req.params.id;
+    try {
+        const magic = data.magics.filter( magic => magic.id === id );
+        if ( magic.length == 1 ){
+            return res.send({ magic: magic[0] });
+        } else {
+            return res.status(400).send({ error: `This magic doesn't exist` }); 
+        }
+    } catch (err) {
+        return res.status(400).send({ error: 'Error to loading magic' });
     }
 });
 
