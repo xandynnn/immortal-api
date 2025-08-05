@@ -2,39 +2,48 @@
   "classes": [
     {
       "id": 0,
-      "name": "Arcanista"
+      "name": "Arcanista",
+      "slug": "arcanista"
     },
     {
       "id": 1,
-      "name": "Bárbaro"
+      "name": "Bárbaro",
+      "slug": "barbaro"
     },
     {
       "id": 2,
-      "name": "Caçador de Demônios"
+      "name": "Caçador de Demônios",
+      "slug": "cacador-de-demonios"
     },
     {
       "id": 7,
-      "name": "Cavaleiro Sangrento"
+      "name": "Cavaleiro Sangrento",
+      "slug": "cavaleiro-sangrento"
     },
     {
       "id": 5,
-      "name": "Cruzado"
+      "name": "Cruzado",
+      "slug": "cruzado"
     },
     {
       "id": 3,
-      "name": "Druida"
+      "name": "Druida",
+      "slug": "druida"
     },
     {
       "id": 4,
-      "name": "Monge"
+      "name": "Monge",
+      "slug": "monge"
     },
     {
       "id": 6,
-      "name": "Necromante"
+      "name": "Necromante",
+      "slug": "necromante"
     },
     {
       "id": 8,
-      "name": "Tempestário"
+      "name": "Tempestário",
+      "slug": "tempestario"
     }
   ]
 }
