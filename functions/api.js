@@ -168,9 +168,9 @@ routes.get('/reforges', (req,res) => {
 /*
     Busca todas as magias eternas
 */
-routes.get('/eternal-magics', (req,res) => {
+routes.get('/eternal-magics', (_,res) => {
     try {
-        const magics = data.magics;
+        const magics = dataMagics.magics;
         return res.send({ magics });
     } catch (err) {
         return res.status(400).send({ error: 'Error to loading all magics' });
@@ -183,7 +183,7 @@ routes.get('/eternal-magics', (req,res) => {
 routes.get('/eternal-magics/:id', (req,res) => {
     const id = req.params.id;
     try {
-        const magic = data.magics.filter( magic => magic.id === id );
+        const magic = dataMagics.magics.filter( magic => magic.id === id );
         if ( magic.length == 1 ){
             return res.send({ magic: magic[0] });
         } else {
