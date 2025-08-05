@@ -12,6 +12,7 @@ const dataFish = require('../src/mock/fish.mock.json');
 const dataChampionship = require('../src/mock/championship.mock.json');
 const dataReforges = require('../src/mock/reforges.mock.json');
 const dataMagics = require('../src/mock/magic-attributes.mock.json');
+const characters = require('../src/mock/character-classes.mock.json');
 
 const app = express();
 app.use(cors({origin: '*'}));
@@ -199,7 +200,7 @@ routes.get('/eternal-magics/:id', (req,res) => {
 */
 routes.get('/characters', (_,res) => {
     try {
-        const classes = data.classes;
+        const classes = characters.classes;
         return res.send({ classes });
     } catch (err) {
         return res.status(400).send({ error: 'Error to loading all Classes' });
@@ -212,7 +213,7 @@ routes.get('/characters', (_,res) => {
 routes.get('/characters/:slug', (req,res) => {
     const id = req.params.slug;
     try {
-        const selectedClass = data.classes.filter( charClass => charClass.slug === slug );
+        const selectedClass = characters.classes.filter( charClass => charClass.slug === slug );
         if ( selectedClass.length == 1 ){
             return res.send({ classes: selectedClass[0] });
         } else {
