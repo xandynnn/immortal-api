@@ -197,7 +197,7 @@ routes.get('/eternal-magics/:id', (req,res) => {
 /*
     Busca todas as classes
 */
-router.get('/characters', (_,res) => {
+routes.get('/characters', (_,res) => {
     try {
         const classes = data.classes;
         return res.send({ classes });
@@ -209,7 +209,7 @@ router.get('/characters', (_,res) => {
 /*
     Busca de classes por nome
 */
-router.get('/characters/:slug', (req,res) => {
+routes.get('/characters/:slug', (req,res) => {
     const id = req.params.slug;
     try {
         const selectedClass = data.classes.filter( charClass => charClass.slug === slug );
